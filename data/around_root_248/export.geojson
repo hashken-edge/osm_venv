@@ -1,0 +1,9529 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-23T12:39:35Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128709378",
+        "highway": "unclassified",
+        "name": "柱郷中3号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1632715,
+            34.9171574
+          ],
+          [
+            137.1630144,
+            34.9170512
+          ],
+          [
+            137.1629339,
+            34.916999
+          ],
+          [
+            137.1628839,
+            34.9169666
+          ],
+          [
+            137.1627691,
+            34.9168375
+          ],
+          [
+            137.1627159,
+            34.9167778
+          ],
+          [
+            137.1626573,
+            34.9166435
+          ],
+          [
+            137.1625517,
+            34.9161971
+          ]
+        ]
+      },
+      "id": "way/128709378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128709761",
+        "highway": "service",
+        "service": "alley",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1649799,
+            34.9199602
+          ],
+          [
+            137.1651705,
+            34.919725
+          ]
+        ]
+      },
+      "id": "way/128709761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128709833",
+        "highway": "unclassified",
+        "name": "柱4号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1693296,
+            34.9197842
+          ],
+          [
+            137.169285,
+            34.920193
+          ]
+        ]
+      },
+      "id": "way/128709833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128709866",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1649679,
+            34.9211656
+          ],
+          [
+            137.1648724,
+            34.9215537
+          ],
+          [
+            137.1647778,
+            34.9219111
+          ],
+          [
+            137.1646939,
+            34.9223083
+          ]
+        ]
+      },
+      "id": "way/128709866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128709968",
+        "highway": "unclassified",
+        "name": "柱郷中3号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1603881,
+            34.9157106
+          ],
+          [
+            137.1612395,
+            34.9157043
+          ]
+        ]
+      },
+      "id": "way/128709968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128710154",
+        "highway": "unclassified",
+        "name": "柱4号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1694046,
+            34.918938
+          ],
+          [
+            137.169369,
+            34.9193638
+          ]
+        ]
+      },
+      "id": "way/128710154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128710206",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.170955,
+            34.917163
+          ],
+          [
+            137.171139,
+            34.9168036
+          ]
+        ]
+      },
+      "id": "way/128710206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128710225",
+        "highway": "unclassified",
+        "name": "柱13号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1679861,
+            34.919569
+          ],
+          [
+            137.1681227,
+            34.9192008
+          ]
+        ]
+      },
+      "id": "way/128710225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128710280",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1665813,
+            34.9187967
+          ],
+          [
+            137.1665561,
+            34.9188305
+          ]
+        ]
+      },
+      "id": "way/128710280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128710387",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1612395,
+            34.9157043
+          ],
+          [
+            137.1615174,
+            34.9156921
+          ]
+        ]
+      },
+      "id": "way/128710387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128710547",
+        "highway": "tertiary",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1608345,
+            34.9214029
+          ],
+          [
+            137.1608887,
+            34.9214139
+          ],
+          [
+            137.1618401,
+            34.9215745
+          ]
+        ]
+      },
+      "id": "way/128710547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128710662",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1704639,
+            34.9190126
+          ],
+          [
+            137.1704247,
+            34.9194314
+          ]
+        ]
+      },
+      "id": "way/128710662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128710900",
+        "highway": "residential",
+        "name": "若松５号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1696428,
+            34.9165863
+          ],
+          [
+            137.1695916,
+            34.9170585
+          ]
+        ]
+      },
+      "id": "way/128710900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128710938",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1704436,
+            34.9198506
+          ],
+          [
+            137.1705498,
+            34.9202276
+          ]
+        ]
+      },
+      "id": "way/128710938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128711038",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.170955,
+            34.917163
+          ],
+          [
+            137.1706962,
+            34.9176574
+          ]
+        ]
+      },
+      "id": "way/128711038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128711114",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1632644,
+            34.9214599
+          ],
+          [
+            137.1632192,
+            34.9218015
+          ]
+        ]
+      },
+      "id": "way/128711114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128711229",
+        "highway": "residential",
+        "name": "若松宮前9号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1625517,
+            34.9161971
+          ],
+          [
+            137.1624008,
+            34.9163393
+          ],
+          [
+            137.1620963,
+            34.9166263
+          ]
+        ]
+      },
+      "id": "way/128711229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128711394",
+        "highway": "unclassified",
+        "name": "若松5号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1695017,
+            34.9180228
+          ],
+          [
+            137.1695359,
+            34.9175644
+          ]
+        ]
+      },
+      "id": "way/128711394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128711678",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1632918,
+            34.9210664
+          ],
+          [
+            137.1632802,
+            34.9211151
+          ],
+          [
+            137.1632644,
+            34.9214599
+          ]
+        ]
+      },
+      "id": "way/128711678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128711717",
+        "highway": "unclassified",
+        "name": "柱13号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1681227,
+            34.9192008
+          ],
+          [
+            137.1682767,
+            34.9188213
+          ]
+        ]
+      },
+      "id": "way/128711717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128711765",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.165842,
+            34.9212946
+          ],
+          [
+            137.1654791,
+            34.9212294
+          ],
+          [
+            137.1649679,
+            34.9211656
+          ]
+        ]
+      },
+      "id": "way/128711765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128711766",
+        "highway": "unclassified",
+        "name": "羽根大池5号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1708703,
+            34.9228507
+          ],
+          [
+            137.1703732,
+            34.9220964
+          ]
+        ]
+      },
+      "id": "way/128711766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128711875",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1723055,
+            34.9170614
+          ],
+          [
+            137.1734414,
+            34.9174526
+          ]
+        ]
+      },
+      "id": "way/128711875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128711938",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1704247,
+            34.9194314
+          ],
+          [
+            137.1704436,
+            34.9198506
+          ]
+        ]
+      },
+      "id": "way/128711938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128712103",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP; GSI/KIBAN 2500; NARO",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1658244,
+            34.9201791
+          ],
+          [
+            137.165738,
+            34.920266
+          ],
+          [
+            137.1656702,
+            34.9203365
+          ]
+        ]
+      },
+      "id": "way/128712103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128712242",
+        "highway": "service",
+        "service": "alley",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.164151,
+            34.921508
+          ],
+          [
+            137.1640932,
+            34.9218934
+          ],
+          [
+            137.164048,
+            34.922195
+          ]
+        ]
+      },
+      "id": "way/128712242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128712486",
+        "highway": "unclassified",
+        "name": "若松５号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1695916,
+            34.9170585
+          ],
+          [
+            137.1695359,
+            34.9175644
+          ]
+        ]
+      },
+      "id": "way/128712486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128712569",
+        "highway": "service",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1625028,
+            34.9156924
+          ],
+          [
+            137.1628196,
+            34.9157591
+          ]
+        ]
+      },
+      "id": "way/128712569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128712573",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1647528,
+            34.9211486
+          ],
+          [
+            137.1649679,
+            34.9211656
+          ]
+        ]
+      },
+      "id": "way/128712573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128712713",
+        "highway": "unclassified",
+        "name": "柱上荒子5号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1618401,
+            34.9215745
+          ],
+          [
+            137.1617686,
+            34.9220037
+          ]
+        ]
+      },
+      "id": "way/128712713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128712870",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.163342,
+            34.922157
+          ],
+          [
+            137.1631978,
+            34.9221597
+          ]
+        ]
+      },
+      "id": "way/128712870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128712974",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1724188,
+            34.916837
+          ],
+          [
+            137.1723055,
+            34.9170614
+          ]
+        ]
+      },
+      "id": "way/128712974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128713021",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP; GSI/KIBAN 2500; NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1655558,
+            34.9204587
+          ],
+          [
+            137.1653484,
+            34.9206953
+          ],
+          [
+            137.1649679,
+            34.9211656
+          ]
+        ]
+      },
+      "id": "way/128713021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128713070",
+        "highway": "unclassified",
+        "name": "羽根大池鰻池2号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1728723,
+            34.9213998
+          ],
+          [
+            137.1717983,
+            34.9217459
+          ]
+        ]
+      },
+      "id": "way/128713070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128713240",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1724188,
+            34.916837
+          ],
+          [
+            137.1725379,
+            34.9166268
+          ]
+        ]
+      },
+      "id": "way/128713240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128713429",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.171139,
+            34.9168036
+          ],
+          [
+            137.1713237,
+            34.9164614
+          ]
+        ]
+      },
+      "id": "way/128713429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128713481",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1720909,
+            34.9174511
+          ],
+          [
+            137.1723055,
+            34.9170614
+          ]
+        ]
+      },
+      "id": "way/128713481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128713510",
+        "highway": "unclassified",
+        "lanes": "2",
+        "name": "若松4号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1681955,
+            34.9155834
+          ],
+          [
+            137.1681417,
+            34.9160687
+          ],
+          [
+            137.1681068,
+            34.9164808
+          ],
+          [
+            137.1680546,
+            34.9169675
+          ],
+          [
+            137.1680137,
+            34.9174425
+          ],
+          [
+            137.1679606,
+            34.9179124
+          ],
+          [
+            137.1679129,
+            34.9184048
+          ]
+        ]
+      },
+      "id": "way/128713510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128713658",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP; GSI/KIBAN 2500; NARO",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1656702,
+            34.9203365
+          ],
+          [
+            137.1655558,
+            34.9204587
+          ]
+        ]
+      },
+      "id": "way/128713658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128713702",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1647528,
+            34.9211486
+          ],
+          [
+            137.1642036,
+            34.9211238
+          ]
+        ]
+      },
+      "id": "way/128713702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128713806",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.165842,
+            34.9212946
+          ],
+          [
+            137.1656857,
+            34.9217775
+          ]
+        ]
+      },
+      "id": "way/128713806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128714265",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1664551,
+            34.9194966
+          ],
+          [
+            137.1664342,
+            34.919205
+          ]
+        ]
+      },
+      "id": "way/128714265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128714542",
+        "highway": "unclassified",
+        "name": "柱17号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.169914,
+            34.9218752
+          ],
+          [
+            137.1702848,
+            34.9215031
+          ],
+          [
+            137.1707297,
+            34.9211553
+          ]
+        ]
+      },
+      "id": "way/128714542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128714613",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1689188,
+            34.914999
+          ],
+          [
+            137.1694312,
+            34.914505
+          ]
+        ]
+      },
+      "id": "way/128714613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128714708",
+        "highway": "residential",
+        "oneway": "yes",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.162425,
+            34.9225385
+          ],
+          [
+            137.162454,
+            34.922156
+          ],
+          [
+            137.162454,
+            34.92209
+          ]
+        ]
+      },
+      "id": "way/128714708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128714735",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.164151,
+            34.921508
+          ],
+          [
+            137.163706,
+            34.921485
+          ],
+          [
+            137.1632644,
+            34.9214599
+          ]
+        ]
+      },
+      "id": "way/128714735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128714799",
+        "highway": "unclassified",
+        "name": "羽根道",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1646939,
+            34.9223083
+          ],
+          [
+            137.164499,
+            34.922229
+          ],
+          [
+            137.164048,
+            34.922195
+          ]
+        ]
+      },
+      "id": "way/128714799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128714809",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1631978,
+            34.9221597
+          ],
+          [
+            137.1632192,
+            34.9218015
+          ]
+        ]
+      },
+      "id": "way/128714809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128714828",
+        "highway": "unclassified",
+        "name": "柱郷中3号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1615174,
+            34.9156921
+          ],
+          [
+            137.1625028,
+            34.9156924
+          ]
+        ]
+      },
+      "id": "way/128714828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128714837",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1706962,
+            34.9176574
+          ],
+          [
+            137.170626,
+            34.91783
+          ],
+          [
+            137.1705545,
+            34.9181064
+          ]
+        ]
+      },
+      "id": "way/128714837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128714903",
+        "highway": "unclassified",
+        "name": "柱3号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1703273,
+            34.9202904
+          ],
+          [
+            137.1705498,
+            34.9202276
+          ]
+        ]
+      },
+      "id": "way/128714903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715069",
+        "highway": "unclassified",
+        "name": "柱2号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1701328,
+            34.9206823
+          ],
+          [
+            137.1703273,
+            34.9202904
+          ]
+        ]
+      },
+      "id": "way/128715069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715162",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1632918,
+            34.9210664
+          ],
+          [
+            137.163316,
+            34.920691
+          ],
+          [
+            137.16333,
+            34.920646
+          ]
+        ]
+      },
+      "id": "way/128715162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715201",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1707297,
+            34.9211553
+          ],
+          [
+            137.1701328,
+            34.9206823
+          ]
+        ]
+      },
+      "id": "way/128715201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715367",
+        "highway": "tertiary",
+        "name": "若松2号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1679129,
+            34.9184048
+          ],
+          [
+            137.1672769,
+            34.9183541
+          ]
+        ]
+      },
+      "id": "way/128715367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715391",
+        "highway": "unclassified",
+        "name": "羽根大池4号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1721016,
+            34.9223677
+          ],
+          [
+            137.171994,
+            34.9220931
+          ],
+          [
+            137.1717983,
+            34.9217459
+          ]
+        ]
+      },
+      "id": "way/128715391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715531",
+        "highway": "unclassified",
+        "name": "柱17号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1714969,
+            34.9206087
+          ],
+          [
+            137.1707297,
+            34.9211553
+          ]
+        ]
+      },
+      "id": "way/128715531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715602",
+        "highway": "unclassified",
+        "name": "柱郷中3号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1625028,
+            34.9156924
+          ],
+          [
+            137.162517,
+            34.915948
+          ],
+          [
+            137.1625517,
+            34.9161971
+          ]
+        ]
+      },
+      "id": "way/128715602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715634",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP; GSI/KIBAN 2500; NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1664551,
+            34.9194966
+          ],
+          [
+            137.1664365,
+            34.919843
+          ],
+          [
+            137.1663951,
+            34.9202277
+          ]
+        ]
+      },
+      "id": "way/128715634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715663",
+        "highway": "unclassified",
+        "name": "柱2号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1693657,
+            34.9209967
+          ],
+          [
+            137.1693043,
+            34.9210339
+          ],
+          [
+            137.1692134,
+            34.9213745
+          ],
+          [
+            137.1690974,
+            34.9215266
+          ]
+        ]
+      },
+      "id": "way/128715663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715690",
+        "highway": "unclassified",
+        "name": "柱13号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1677725,
+            34.9200969
+          ],
+          [
+            137.1679861,
+            34.919569
+          ]
+        ]
+      },
+      "id": "way/128715690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715883",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1663951,
+            34.9202277
+          ],
+          [
+            137.1658244,
+            34.9201791
+          ]
+        ]
+      },
+      "id": "way/128715883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128715972",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP; GSI/KIBAN 2500; NARO",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1661952,
+            34.9182705
+          ],
+          [
+            137.1662747,
+            34.9183365
+          ],
+          [
+            137.1663263,
+            34.9183894
+          ]
+        ]
+      },
+      "id": "way/128715972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716071",
+        "highway": "service",
+        "service": "alley",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.164151,
+            34.921508
+          ],
+          [
+            137.164185,
+            34.921271
+          ],
+          [
+            137.1642036,
+            34.9211238
+          ]
+        ]
+      },
+      "id": "way/128716071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716169",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1648724,
+            34.9215537
+          ],
+          [
+            137.164151,
+            34.921508
+          ]
+        ]
+      },
+      "id": "way/128716169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716179",
+        "highway": "unclassified",
+        "name": "羽根競馬場線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1728723,
+            34.9213998
+          ],
+          [
+            137.1724608,
+            34.9207144
+          ]
+        ]
+      },
+      "id": "way/128716179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716338",
+        "highway": "residential",
+        "name": "若松13号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1713237,
+            34.9164614
+          ],
+          [
+            137.170328,
+            34.916112
+          ]
+        ]
+      },
+      "id": "way/128716338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716356",
+        "highway": "residential",
+        "name": "柱上荒子5号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1617686,
+            34.9220037
+          ],
+          [
+            137.1616878,
+            34.9224252
+          ]
+        ]
+      },
+      "id": "way/128716356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716454",
+        "highway": "unclassified",
+        "name": "羽根大池鰻池1号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.173109,
+            34.9219403
+          ],
+          [
+            137.1721016,
+            34.9223677
+          ]
+        ]
+      },
+      "id": "way/128716454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716457",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP; GSI/KIBAN 2500; NARO",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1664551,
+            34.9194966
+          ],
+          [
+            137.1661571,
+            34.9198078
+          ],
+          [
+            137.1658244,
+            34.9201791
+          ]
+        ]
+      },
+      "id": "way/128716457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716496",
+        "highway": "unclassified",
+        "name": "柱郷中3号線",
+        "source": "YahooJapan/ALPSMAP;GSI/KIBAN 2500;NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1663263,
+            34.9183894
+          ],
+          [
+            137.1664571,
+            34.9185529
+          ],
+          [
+            137.1665416,
+            34.9187188
+          ],
+          [
+            137.1665813,
+            34.9187967
+          ]
+        ]
+      },
+      "id": "way/128716496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716517",
+        "highway": "unclassified",
+        "name": "羽根道",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1631978,
+            34.9221597
+          ],
+          [
+            137.16253,
+            34.922099
+          ],
+          [
+            137.162454,
+            34.92209
+          ]
+        ]
+      },
+      "id": "way/128716517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716563",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1664342,
+            34.919205
+          ],
+          [
+            137.1664135,
+            34.9190267
+          ],
+          [
+            137.1665561,
+            34.9188305
+          ]
+        ]
+      },
+      "id": "way/128716563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716589",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP; GSI/KIBAN 2500; NARO",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1663951,
+            34.9202277
+          ],
+          [
+            137.1669728,
+            34.9202757
+          ]
+        ]
+      },
+      "id": "way/128716589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716616",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1716228,
+            34.9191384
+          ],
+          [
+            137.1716912,
+            34.9186695
+          ]
+        ]
+      },
+      "id": "way/128716616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716730",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1698117,
+            34.9147772
+          ],
+          [
+            137.1694312,
+            34.914505
+          ]
+        ]
+      },
+      "id": "way/128716730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716778",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1642036,
+            34.9211238
+          ],
+          [
+            137.1632918,
+            34.9210664
+          ]
+        ]
+      },
+      "id": "way/128716778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716812",
+        "highway": "residential",
+        "oneway": "yes",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.163342,
+            34.922157
+          ],
+          [
+            137.16333,
+            34.922291
+          ],
+          [
+            137.163323,
+            34.92246
+          ]
+        ]
+      },
+      "id": "way/128716812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128716852",
+        "highway": "residential",
+        "name": "若松11号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1681068,
+            34.9164808
+          ],
+          [
+            137.1696428,
+            34.9165863
+          ],
+          [
+            137.1700982,
+            34.9166138
+          ]
+        ]
+      },
+      "id": "way/128716852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128717002",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1689879,
+            34.921708
+          ],
+          [
+            137.1690974,
+            34.9215266
+          ]
+        ]
+      },
+      "id": "way/128717002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128717080",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1718709,
+            34.9166483
+          ],
+          [
+            137.1724188,
+            34.916837
+          ]
+        ]
+      },
+      "id": "way/128717080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128717082",
+        "highway": "unclassified",
+        "name": "柱3号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.169285,
+            34.920193
+          ],
+          [
+            137.1703273,
+            34.9202904
+          ]
+        ]
+      },
+      "id": "way/128717082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128717465",
+        "highway": "unclassified",
+        "name": "柱14号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1704436,
+            34.9198506
+          ],
+          [
+            137.1693296,
+            34.9197842
+          ]
+        ]
+      },
+      "id": "way/128717465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128717576",
+        "highway": "unclassified",
+        "name": "羽根道",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.162454,
+            34.92209
+          ],
+          [
+            137.162229,
+            34.922048
+          ],
+          [
+            137.161894,
+            34.921969
+          ],
+          [
+            137.1617686,
+            34.9220037
+          ]
+        ]
+      },
+      "id": "way/128717576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128717926",
+        "highway": "tertiary",
+        "name": "上地柱線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1719195,
+            34.9210342
+          ],
+          [
+            137.1714969,
+            34.9206087
+          ],
+          [
+            137.1713534,
+            34.9204459
+          ],
+          [
+            137.1712291,
+            34.9202705
+          ],
+          [
+            137.1711294,
+            34.9200665
+          ]
+        ]
+      },
+      "id": "way/128717926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128718004",
+        "highway": "unclassified",
+        "name": "若松５号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1696428,
+            34.9165863
+          ],
+          [
+            137.1696752,
+            34.9161788
+          ]
+        ]
+      },
+      "id": "way/128718004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128718103",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP; GSI/KIBAN 2500; NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1663951,
+            34.9202277
+          ],
+          [
+            137.1663644,
+            34.9205214
+          ],
+          [
+            137.1660767,
+            34.9205025
+          ],
+          [
+            137.1655558,
+            34.9204587
+          ]
+        ]
+      },
+      "id": "way/128718103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128718311",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1722211,
+            34.9150042
+          ],
+          [
+            137.1710516,
+            34.9142856
+          ]
+        ]
+      },
+      "id": "way/128718311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128718377",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1681417,
+            34.9160687
+          ],
+          [
+            137.1696752,
+            34.9161788
+          ]
+        ]
+      },
+      "id": "way/128718377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128718379",
+        "highway": "unclassified",
+        "name": "羽根大池4号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1717983,
+            34.9217459
+          ],
+          [
+            137.1714964,
+            34.9213449
+          ]
+        ]
+      },
+      "id": "way/128718379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128718537",
+        "highway": "unclassified",
+        "name": "柱3号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1711294,
+            34.9200665
+          ],
+          [
+            137.1705498,
+            34.9202276
+          ]
+        ]
+      },
+      "id": "way/128718537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128718705",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:STRUCTURE": "地上",
+        "yh:TOTYUMONO": "供用中",
+        "yh:TYPE": "その他一般道",
+        "yh:WIDTH": "3.0m〜5.5m",
+        "yh:WIDTH_RANK": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1716228,
+            34.9191384
+          ],
+          [
+            137.171591,
+            34.919412
+          ],
+          [
+            137.171597,
+            34.919558
+          ],
+          [
+            137.171688,
+            34.919895
+          ]
+        ]
+      },
+      "id": "way/128718705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128718753",
+        "highway": "unclassified",
+        "name": "柱16号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1694046,
+            34.918938
+          ],
+          [
+            137.1704639,
+            34.9190126
+          ]
+        ]
+      },
+      "id": "way/128718753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128718778",
+        "highway": "unclassified",
+        "name": "羽根道",
+        "source": "YahooJapan/ALPSMAP",
+        "yh:WIDTH": "3.0m〜5.5m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.164048,
+            34.922195
+          ],
+          [
+            137.163706,
+            34.922178
+          ],
+          [
+            137.163446,
+            34.922161
+          ],
+          [
+            137.163342,
+            34.922157
+          ]
+        ]
+      },
+      "id": "way/128718778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719010",
+        "highway": "unclassified",
+        "name": "柱4号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.169369,
+            34.9193638
+          ],
+          [
+            137.1693296,
+            34.9197842
+          ]
+        ]
+      },
+      "id": "way/128719010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719016",
+        "highway": "unclassified",
+        "name": "柱14号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1679861,
+            34.919569
+          ],
+          [
+            137.1693296,
+            34.9197842
+          ]
+        ]
+      },
+      "id": "way/128719016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719044",
+        "highway": "residential",
+        "name": "若松13号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.170328,
+            34.916112
+          ],
+          [
+            137.1700982,
+            34.9166138
+          ]
+        ]
+      },
+      "id": "way/128719044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719380",
+        "highway": "unclassified",
+        "name": "羽根道",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.160847,
+            34.9218111
+          ],
+          [
+            137.1612742,
+            34.9218712
+          ],
+          [
+            137.161593,
+            34.9219353
+          ],
+          [
+            137.1617686,
+            34.9220037
+          ]
+        ]
+      },
+      "id": "way/128719380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719409",
+        "highway": "unclassified",
+        "name": "柱2号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1690974,
+            34.9215266
+          ],
+          [
+            137.1690447,
+            34.9215348
+          ],
+          [
+            137.1687756,
+            34.9213802
+          ],
+          [
+            137.167952,
+            34.9213266
+          ]
+        ]
+      },
+      "id": "way/128719409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719411",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1689188,
+            34.914999
+          ],
+          [
+            137.1685561,
+            34.9151036
+          ],
+          [
+            137.1682499,
+            34.9150934
+          ]
+        ]
+      },
+      "id": "way/128719411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719423",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1653484,
+            34.9206953
+          ],
+          [
+            137.1651308,
+            34.9203126
+          ],
+          [
+            137.1649799,
+            34.9199602
+          ],
+          [
+            137.1648281,
+            34.9201375
+          ],
+          [
+            137.1647528,
+            34.9211486
+          ]
+        ]
+      },
+      "id": "way/128719423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719509",
+        "highway": "unclassified",
+        "name": "柱15号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1704247,
+            34.9194314
+          ],
+          [
+            137.169369,
+            34.9193638
+          ]
+        ]
+      },
+      "id": "way/128719509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719517",
+        "highway": "unclassified",
+        "name": "柱20号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1714969,
+            34.9206087
+          ],
+          [
+            137.1721147,
+            34.920188
+          ],
+          [
+            137.1723219,
+            34.9201551
+          ],
+          [
+            137.1726123,
+            34.920138
+          ],
+          [
+            137.1731235,
+            34.9199633
+          ],
+          [
+            137.1737047,
+            34.9197588
+          ]
+        ]
+      },
+      "id": "way/128719517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719627",
+        "highway": "unclassified",
+        "name": "若松9号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1695017,
+            34.9180228
+          ],
+          [
+            137.1679606,
+            34.9179124
+          ]
+        ]
+      },
+      "id": "way/128719627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719699",
+        "highway": "unclassified",
+        "name": "若松11号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1700982,
+            34.9166138
+          ],
+          [
+            137.171139,
+            34.9168036
+          ]
+        ]
+      },
+      "id": "way/128719699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128719894",
+        "highway": "unclassified",
+        "name": "若松10号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1706962,
+            34.9176574
+          ],
+          [
+            137.1695359,
+            34.9175644
+          ],
+          [
+            137.1680137,
+            34.9174425
+          ]
+        ]
+      },
+      "id": "way/128719894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128720012",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1718978,
+            34.9178646
+          ],
+          [
+            137.173066,
+            34.9181638
+          ]
+        ]
+      },
+      "id": "way/128720012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128720122",
+        "highway": "unclassified",
+        "name": "柱15号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.169369,
+            34.9193638
+          ],
+          [
+            137.1681227,
+            34.9192008
+          ]
+        ]
+      },
+      "id": "way/128720122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128720162",
+        "highway": "unclassified",
+        "name": "柱2号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1693657,
+            34.9209967
+          ],
+          [
+            137.1697359,
+            34.9209463
+          ],
+          [
+            137.1697979,
+            34.9209272
+          ],
+          [
+            137.1701328,
+            34.9206823
+          ]
+        ]
+      },
+      "id": "way/128720162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128720180",
+        "highway": "residential",
+        "name": "若松24号線",
+        "source": "YahooJapan/ALPSMAP;GSI/KIBAN 2500;NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1672769,
+            34.9183541
+          ],
+          [
+            137.1671683,
+            34.918347
+          ],
+          [
+            137.1668098,
+            34.9183398
+          ],
+          [
+            137.1663263,
+            34.9183894
+          ]
+        ]
+      },
+      "id": "way/128720180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128720329",
+        "highway": "unclassified",
+        "name": "柱郷中3号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1647156,
+            34.9176026
+          ],
+          [
+            137.1639721,
+            34.9173898
+          ],
+          [
+            137.1635548,
+            34.9172365
+          ],
+          [
+            137.1632715,
+            34.9171574
+          ]
+        ]
+      },
+      "id": "way/128720329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128720501",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1729351,
+            34.9195542
+          ],
+          [
+            137.1721493,
+            34.9197538
+          ],
+          [
+            137.171688,
+            34.919895
+          ],
+          [
+            137.1711294,
+            34.9200665
+          ]
+        ]
+      },
+      "id": "way/128720501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128720529",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1705545,
+            34.9181064
+          ],
+          [
+            137.1695017,
+            34.9180228
+          ]
+        ]
+      },
+      "id": "way/128720529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128720588",
+        "highway": "unclassified",
+        "name": "柱16号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1682767,
+            34.9188213
+          ],
+          [
+            137.1694046,
+            34.918938
+          ]
+        ]
+      },
+      "id": "way/128720588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128720681",
+        "highway": "residential",
+        "name": "若松21号線",
+        "source": "YahooJapan/ALPSMAP;GSI/KIBAN 2500;NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1665199,
+            34.9179097
+          ],
+          [
+            137.166378,
+            34.9180595
+          ],
+          [
+            137.1661952,
+            34.9182705
+          ]
+        ]
+      },
+      "id": "way/128720681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128720983",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1657295,
+            34.9222506
+          ],
+          [
+            137.1660042,
+            34.9218558
+          ],
+          [
+            137.1662033,
+            34.9216046
+          ],
+          [
+            137.166268,
+            34.921349
+          ],
+          [
+            137.165842,
+            34.9212946
+          ]
+        ]
+      },
+      "id": "way/128720983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128721134",
+        "highway": "unclassified",
+        "name": "柱郷中3号線",
+        "source": "YahooJapan/ALPSMAP;GSI/KIBAN 2500;NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1661952,
+            34.9182705
+          ],
+          [
+            137.1660164,
+            34.9181195
+          ],
+          [
+            137.1656933,
+            34.9179308
+          ],
+          [
+            137.1653398,
+            34.9177992
+          ],
+          [
+            137.1651574,
+            34.9177392
+          ],
+          [
+            137.1647156,
+            34.9176026
+          ]
+        ]
+      },
+      "id": "way/128721134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128721157",
+        "highway": "residential",
+        "name": "柱13号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1675254,
+            34.9223224
+          ],
+          [
+            137.1676171,
+            34.9213059
+          ]
+        ]
+      },
+      "id": "way/128721157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128721272",
+        "highway": "footway",
+        "source": "YahooJapan/ALPSMAP",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1689879,
+            34.921708
+          ],
+          [
+            137.169914,
+            34.9218752
+          ]
+        ]
+      },
+      "id": "way/128721272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128721293",
+        "highway": "residential",
+        "name": "若松宮前9号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1620963,
+            34.9166263
+          ],
+          [
+            137.1617011,
+            34.9168152
+          ],
+          [
+            137.16145,
+            34.917052
+          ],
+          [
+            137.1613869,
+            34.9171364
+          ],
+          [
+            137.1612117,
+            34.9172311
+          ],
+          [
+            137.1609092,
+            34.9172309
+          ],
+          [
+            137.1603651,
+            34.917194
+          ]
+        ]
+      },
+      "id": "way/128721293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128721465",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1632192,
+            34.9218015
+          ],
+          [
+            137.1623149,
+            34.9216454
+          ]
+        ]
+      },
+      "id": "way/128721465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861428",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "若松1号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1715195,
+            34.9173126
+          ],
+          [
+            137.1720909,
+            34.9174511
+          ],
+          [
+            137.1732407,
+            34.9178576
+          ]
+        ]
+      },
+      "id": "way/200861428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861429",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "若松1号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1715195,
+            34.9173126
+          ],
+          [
+            137.170955,
+            34.917163
+          ]
+        ]
+      },
+      "id": "way/200861429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861430",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "上地柱線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1710948,
+            34.918628
+          ],
+          [
+            137.1711199,
+            34.9183704
+          ],
+          [
+            137.1711573,
+            34.9181424
+          ],
+          [
+            137.1712592,
+            34.9178213
+          ],
+          [
+            137.1715195,
+            34.9173126
+          ],
+          [
+            137.1718709,
+            34.9166483
+          ],
+          [
+            137.1719823,
+            34.916422
+          ],
+          [
+            137.1720382,
+            34.9163091
+          ],
+          [
+            137.1721498,
+            34.9160986
+          ],
+          [
+            137.1722753,
+            34.9158572
+          ],
+          [
+            137.1724071,
+            34.9156464
+          ],
+          [
+            137.1725357,
+            34.9154534
+          ],
+          [
+            137.1726508,
+            34.9153267
+          ]
+        ]
+      },
+      "id": "way/200861430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861431",
+        "highway": "residential",
+        "name": "若松13号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1713237,
+            34.9164614
+          ],
+          [
+            137.1718709,
+            34.9166483
+          ]
+        ]
+      },
+      "id": "way/200861431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861432",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "若松15号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1719823,
+            34.916422
+          ],
+          [
+            137.1725379,
+            34.9166268
+          ]
+        ]
+      },
+      "id": "way/200861432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861436",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1729491,
+            34.9184144
+          ],
+          [
+            137.1717609,
+            34.9181857
+          ]
+        ]
+      },
+      "id": "way/200861436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861437",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1716912,
+            34.9186695
+          ],
+          [
+            137.1717609,
+            34.9181857
+          ],
+          [
+            137.1718978,
+            34.9178646
+          ],
+          [
+            137.1720909,
+            34.9174511
+          ]
+        ]
+      },
+      "id": "way/200861437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861438",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "若松5号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1694523,
+            34.9185113
+          ],
+          [
+            137.1695017,
+            34.9180228
+          ]
+        ]
+      },
+      "id": "way/200861438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861440",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1705129,
+            34.9185738
+          ],
+          [
+            137.1704639,
+            34.9190126
+          ]
+        ]
+      },
+      "id": "way/200861440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861441",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1705545,
+            34.9181064
+          ],
+          [
+            137.1705129,
+            34.9185738
+          ]
+        ]
+      },
+      "id": "way/200861441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861442",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "上地柱線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1710948,
+            34.918628
+          ],
+          [
+            137.1710421,
+            34.9192941
+          ],
+          [
+            137.1710237,
+            34.9196755
+          ],
+          [
+            137.1711294,
+            34.9200665
+          ]
+        ]
+      },
+      "id": "way/200861442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861443",
+        "highway": "residential",
+        "name": "柱44号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1672361,
+            34.9188103
+          ],
+          [
+            137.1674828,
+            34.9188213
+          ],
+          [
+            137.1682767,
+            34.9188213
+          ]
+        ]
+      },
+      "id": "way/200861443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861444",
+        "highway": "residential",
+        "name": "柱13号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1682767,
+            34.9188213
+          ],
+          [
+            137.1684359,
+            34.9184396
+          ]
+        ]
+      },
+      "id": "way/200861444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861445",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "若松2号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1679129,
+            34.9184048
+          ],
+          [
+            137.1684359,
+            34.9184396
+          ]
+        ]
+      },
+      "id": "way/200861445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861446",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "若松2号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1684359,
+            34.9184396
+          ],
+          [
+            137.1694523,
+            34.9185113
+          ],
+          [
+            137.1705129,
+            34.9185738
+          ],
+          [
+            137.1710948,
+            34.918628
+          ],
+          [
+            137.1716912,
+            34.9186695
+          ],
+          [
+            137.172756,
+            34.9187575
+          ],
+          [
+            137.1729464,
+            34.9188191
+          ],
+          [
+            137.1731422,
+            34.9189092
+          ],
+          [
+            137.1733728,
+            34.9190878
+          ]
+        ]
+      },
+      "id": "way/200861446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861447",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "柱4号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1694523,
+            34.9185113
+          ],
+          [
+            137.1694046,
+            34.918938
+          ]
+        ]
+      },
+      "id": "way/200861447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861448",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "柱3号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1677725,
+            34.9200969
+          ],
+          [
+            137.169285,
+            34.920193
+          ]
+        ]
+      },
+      "id": "way/200861448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861449",
+        "highway": "unclassified",
+        "name": "柱3号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1677725,
+            34.9200969
+          ],
+          [
+            137.1673462,
+            34.9200707
+          ],
+          [
+            137.1671046,
+            34.9200595
+          ]
+        ]
+      },
+      "id": "way/200861449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861450",
+        "highway": "residential",
+        "name": "柱48号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1673462,
+            34.9200707
+          ],
+          [
+            137.1673996,
+            34.9195558
+          ],
+          [
+            137.1674828,
+            34.9188213
+          ]
+        ]
+      },
+      "id": "way/200861450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861451",
+        "highway": "residential",
+        "name": "柱42号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1673996,
+            34.9195558
+          ],
+          [
+            137.1679861,
+            34.919569
+          ]
+        ]
+      },
+      "id": "way/200861451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861452",
+        "highway": "residential",
+        "name": "柱郷中3号線",
+        "source": "GSI/KIBAN 2500;NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1671058,
+            34.9188354
+          ],
+          [
+            137.1665813,
+            34.9187967
+          ]
+        ]
+      },
+      "id": "way/200861452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861453",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "柱2号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1669785,
+            34.9212562
+          ],
+          [
+            137.1676171,
+            34.9213059
+          ],
+          [
+            137.167952,
+            34.9213266
+          ]
+        ]
+      },
+      "id": "way/200861453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200861454",
+        "highway": "residential",
+        "name": "柱13号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1676171,
+            34.9213059
+          ],
+          [
+            137.1677725,
+            34.9200969
+          ]
+        ]
+      },
+      "id": "way/200861454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200900911",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1704876,
+            34.9141652
+          ],
+          [
+            137.1708624,
+            34.9143521
+          ],
+          [
+            137.1715946,
+            34.9148514
+          ],
+          [
+            137.1720525,
+            34.9151634
+          ],
+          [
+            137.1725357,
+            34.9154534
+          ]
+        ]
+      },
+      "id": "way/200900911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200900913",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1720525,
+            34.9151634
+          ],
+          [
+            137.1722211,
+            34.9150042
+          ]
+        ]
+      },
+      "id": "way/200900913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200900914",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1722211,
+            34.9150042
+          ],
+          [
+            137.1726508,
+            34.9153267
+          ]
+        ]
+      },
+      "id": "way/200900914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200900921",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1714417,
+            34.9162282
+          ],
+          [
+            137.1713237,
+            34.9164614
+          ]
+        ]
+      },
+      "id": "way/200900921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200900922",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1704627,
+            34.915795
+          ],
+          [
+            137.170328,
+            34.916112
+          ]
+        ]
+      },
+      "id": "way/200900922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200900923",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1704627,
+            34.915795
+          ],
+          [
+            137.1705459,
+            34.9157004
+          ]
+        ]
+      },
+      "id": "way/200900923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200900924",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "若松3号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1681955,
+            34.9155834
+          ],
+          [
+            137.1685557,
+            34.9155948
+          ],
+          [
+            137.1689231,
+            34.9155244
+          ],
+          [
+            137.1691914,
+            34.9154013
+          ],
+          [
+            137.1695856,
+            34.9150098
+          ],
+          [
+            137.1698117,
+            34.9147772
+          ],
+          [
+            137.1702274,
+            34.9143998
+          ],
+          [
+            137.1703109,
+            34.9143258
+          ]
+        ]
+      },
+      "id": "way/200900924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200900927",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1719823,
+            34.916422
+          ],
+          [
+            137.1714417,
+            34.9162282
+          ],
+          [
+            137.171034,
+            34.9160897
+          ],
+          [
+            137.1708114,
+            34.9159995
+          ],
+          [
+            137.1706532,
+            34.9159115
+          ],
+          [
+            137.1704627,
+            34.915795
+          ],
+          [
+            137.1702642,
+            34.9156696
+          ],
+          [
+            137.1700497,
+            34.9155112
+          ],
+          [
+            137.1698378,
+            34.9153001
+          ],
+          [
+            137.1696956,
+            34.9151088
+          ],
+          [
+            137.1695856,
+            34.9150098
+          ]
+        ]
+      },
+      "id": "way/200900927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200908504",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "若松5号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1691914,
+            34.9154013
+          ],
+          [
+            137.1696752,
+            34.9161788
+          ]
+        ]
+      },
+      "id": "way/200908504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200908505",
+        "highway": "residential",
+        "name": "若松5号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1691914,
+            34.9154013
+          ],
+          [
+            137.1689188,
+            34.914999
+          ]
+        ]
+      },
+      "id": "way/200908505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200908506",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "若松3号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1681955,
+            34.9155834
+          ],
+          [
+            137.1675479,
+            34.9155445
+          ],
+          [
+            137.1674273,
+            34.9155404
+          ]
+        ]
+      },
+      "id": "way/200908506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200908508",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "若松4号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1681955,
+            34.9155834
+          ],
+          [
+            137.1682499,
+            34.9150934
+          ],
+          [
+            137.1682955,
+            34.9146221
+          ],
+          [
+            137.1683572,
+            34.9139849
+          ]
+        ]
+      },
+      "id": "way/200908508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200908510",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1718816,
+            34.9162392
+          ],
+          [
+            137.1719823,
+            34.916422
+          ]
+        ]
+      },
+      "id": "way/200908510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200908511",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1718816,
+            34.9162392
+          ],
+          [
+            137.1713666,
+            34.9160919
+          ],
+          [
+            137.171195,
+            34.9159225
+          ],
+          [
+            137.1711494,
+            34.9158851
+          ],
+          [
+            137.1710823,
+            34.9158434
+          ],
+          [
+            137.1710126,
+            34.9158258
+          ],
+          [
+            137.1709348,
+            34.9158082
+          ],
+          [
+            137.1708356,
+            34.9157686
+          ],
+          [
+            137.1704064,
+            34.9155486
+          ],
+          [
+            137.1702267,
+            34.9154387
+          ],
+          [
+            137.1700926,
+            34.9153287
+          ],
+          [
+            137.1698539,
+            34.9150846
+          ]
+        ]
+      },
+      "id": "way/200908511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200908512",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1698539,
+            34.9150846
+          ],
+          [
+            137.1696956,
+            34.9151088
+          ]
+        ]
+      },
+      "id": "way/200908512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200908516",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1721498,
+            34.9160986
+          ],
+          [
+            137.1719701,
+            34.9160347
+          ]
+        ]
+      },
+      "id": "way/200908516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200908517",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1719701,
+            34.9160347
+          ],
+          [
+            137.1718816,
+            34.9162392
+          ]
+        ]
+      },
+      "id": "way/200908517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200908518",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1720077,
+            34.9159555
+          ],
+          [
+            137.1719701,
+            34.9160347
+          ]
+        ]
+      },
+      "id": "way/200908518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927858",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1647067,
+            34.9148822
+          ],
+          [
+            137.1646718,
+            34.9146249
+          ],
+          [
+            137.1646155,
+            34.9145633
+          ],
+          [
+            137.1645538,
+            34.9145303
+          ],
+          [
+            137.164527,
+            34.9144665
+          ],
+          [
+            137.1645243,
+            34.9144159
+          ],
+          [
+            137.1644868,
+            34.9140112
+          ]
+        ]
+      },
+      "id": "way/200927858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927862",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1652566,
+            34.9148514
+          ],
+          [
+            137.1652539,
+            34.9147942
+          ]
+        ]
+      },
+      "id": "way/200927862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927865",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1648435,
+            34.9149504
+          ],
+          [
+            137.1647067,
+            34.9148822
+          ]
+        ]
+      },
+      "id": "way/200927865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927867",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1647067,
+            34.9148822
+          ],
+          [
+            137.1640727,
+            34.9144448
+          ],
+          [
+            137.1640036,
+            34.9144426
+          ]
+        ]
+      },
+      "id": "way/200927867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927875",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.165793,
+            34.9152297
+          ],
+          [
+            137.165793,
+            34.9151637
+          ]
+        ]
+      },
+      "id": "way/200927875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927877",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.165793,
+            34.9151637
+          ],
+          [
+            137.1662835,
+            34.9152119
+          ],
+          [
+            137.1663233,
+            34.9152158
+          ],
+          [
+            137.1664317,
+            34.915222
+          ],
+          [
+            137.1664782,
+            34.9153615
+          ],
+          [
+            137.1665718,
+            34.9154879
+          ],
+          [
+            137.1666419,
+            34.9155171
+          ],
+          [
+            137.1668028,
+            34.9155672
+          ],
+          [
+            137.1670164,
+            34.9155873
+          ],
+          [
+            137.167306,
+            34.9156002
+          ]
+        ]
+      },
+      "id": "way/200927877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927878",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.165793,
+            34.9151637
+          ],
+          [
+            137.1656374,
+            34.9151615
+          ],
+          [
+            137.1656205,
+            34.9149731
+          ],
+          [
+            137.1656106,
+            34.9148301
+          ]
+        ]
+      },
+      "id": "way/200927878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927880",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1656106,
+            34.9148301
+          ],
+          [
+            137.1658451,
+            34.9148138
+          ],
+          [
+            137.1661011,
+            34.914797
+          ],
+          [
+            137.1664668,
+            34.9147304
+          ],
+          [
+            137.1667586,
+            34.9147927
+          ]
+        ]
+      },
+      "id": "way/200927880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927882",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1656106,
+            34.9148301
+          ],
+          [
+            137.1654498,
+            34.9148574
+          ],
+          [
+            137.165378,
+            34.9148552
+          ],
+          [
+            137.1652566,
+            34.9148514
+          ],
+          [
+            137.1651359,
+            34.9148646
+          ],
+          [
+            137.1649964,
+            34.9148998
+          ],
+          [
+            137.1649014,
+            34.9149312
+          ],
+          [
+            137.1648435,
+            34.9149504
+          ]
+        ]
+      },
+      "id": "way/200927882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927886",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1659667,
+            34.91633
+          ],
+          [
+            137.1660831,
+            34.9160692
+          ]
+        ]
+      },
+      "id": "way/200927886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927888",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1660831,
+            34.9160692
+          ],
+          [
+            137.1660793,
+            34.915971
+          ],
+          [
+            137.1660884,
+            34.9158132
+          ],
+          [
+            137.1661005,
+            34.9157444
+          ],
+          [
+            137.1661304,
+            34.9156212
+          ],
+          [
+            137.1662726,
+            34.9155644
+          ],
+          [
+            137.166299,
+            34.9155266
+          ],
+          [
+            137.1664357,
+            34.9154937
+          ],
+          [
+            137.1661629,
+            34.9154882
+          ],
+          [
+            137.1659059,
+            34.9154718
+          ]
+        ]
+      },
+      "id": "way/200927888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927889",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1659059,
+            34.9154718
+          ],
+          [
+            137.1657099,
+            34.9154497
+          ],
+          [
+            137.165624,
+            34.9154497
+          ]
+        ]
+      },
+      "id": "way/200927889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927890",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1659059,
+            34.9154718
+          ],
+          [
+            137.1657125,
+            34.9153815
+          ],
+          [
+            137.165793,
+            34.9152297
+          ]
+        ]
+      },
+      "id": "way/200927890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927891",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1657125,
+            34.9153815
+          ],
+          [
+            137.1657099,
+            34.9154497
+          ]
+        ]
+      },
+      "id": "way/200927891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927894",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "若松1号線",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1673006,
+            34.9168934
+          ],
+          [
+            137.1674199,
+            34.9169017
+          ],
+          [
+            137.1680546,
+            34.9169675
+          ],
+          [
+            137.1695916,
+            34.9170585
+          ],
+          [
+            137.170955,
+            34.917163
+          ]
+        ]
+      },
+      "id": "way/200927894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927895",
+        "highway": "residential",
+        "name": "若松21号線",
+        "source": "GSI/KIBAN 2500;NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1665467,
+            34.9176473
+          ],
+          [
+            137.1665199,
+            34.9179097
+          ]
+        ]
+      },
+      "id": "way/200927895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927896",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1665467,
+            34.9176473
+          ],
+          [
+            137.1664617,
+            34.9176387
+          ],
+          [
+            137.1663235,
+            34.9175655
+          ]
+        ]
+      },
+      "id": "way/200927896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927897",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1657663,
+            34.9170306
+          ],
+          [
+            137.165904,
+            34.9170877
+          ],
+          [
+            137.1660137,
+            34.9173625
+          ],
+          [
+            137.1660465,
+            34.9173831
+          ]
+        ]
+      },
+      "id": "way/200927897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927898",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.16619,
+            34.9174731
+          ],
+          [
+            137.1662087,
+            34.9174247
+          ],
+          [
+            137.1662034,
+            34.9173587
+          ],
+          [
+            137.1661873,
+            34.917229
+          ],
+          [
+            137.1661685,
+            34.9170376
+          ],
+          [
+            137.1661342,
+            34.9169019
+          ],
+          [
+            137.1661265,
+            34.9168013
+          ],
+          [
+            137.1661421,
+            34.9166614
+          ],
+          [
+            137.1661902,
+            34.9164804
+          ],
+          [
+            137.1661999,
+            34.9163004
+          ],
+          [
+            137.1661691,
+            34.9161928
+          ],
+          [
+            137.1660831,
+            34.9160692
+          ]
+        ]
+      },
+      "id": "way/200927898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927903",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1668176,
+            34.9151144
+          ],
+          [
+            137.1674745,
+            34.9151635
+          ]
+        ]
+      },
+      "id": "way/200927903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927906",
+        "highway": "service",
+        "lanes": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1674273,
+            34.9155404
+          ],
+          [
+            137.1670649,
+            34.9155074
+          ],
+          [
+            137.1667747,
+            34.9154895
+          ],
+          [
+            137.1666493,
+            34.9154785
+          ],
+          [
+            137.1665594,
+            34.9153675
+          ],
+          [
+            137.1665509,
+            34.9151965
+          ]
+        ]
+      },
+      "id": "way/200927906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927907",
+        "highway": "residential",
+        "name": "若松21号線",
+        "source": "GSI/KIBAN 2500;NARO;GSI/KIBAN 2500;NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1673977,
+            34.915833
+          ],
+          [
+            137.166732,
+            34.9157981
+          ],
+          [
+            137.1666316,
+            34.9168345
+          ],
+          [
+            137.1665467,
+            34.9176473
+          ]
+        ]
+      },
+      "id": "way/200927907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927908",
+        "highway": "residential",
+        "source": "GSI/KIBAN 2500; NARO; GSI/KIBAN 2500; NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1666316,
+            34.9168345
+          ],
+          [
+            137.1673006,
+            34.9168934
+          ]
+        ]
+      },
+      "id": "way/200927908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200927910",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1670024,
+            34.9130775
+          ],
+          [
+            137.1669365,
+            34.9139063
+          ],
+          [
+            137.1668176,
+            34.9151144
+          ],
+          [
+            137.1668096,
+            34.9151957
+          ],
+          [
+            137.1667747,
+            34.9154895
+          ]
+        ]
+      },
+      "id": "way/200927910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200934242",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1659258,
+            34.9141328
+          ],
+          [
+            137.1660156,
+            34.9145496
+          ],
+          [
+            137.1660333,
+            34.9145683
+          ],
+          [
+            137.1660413,
+            34.9145895
+          ],
+          [
+            137.1660532,
+            34.9146519
+          ]
+        ]
+      },
+      "id": "way/200934242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200934244",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1660532,
+            34.9146519
+          ],
+          [
+            137.1661069,
+            34.9146411
+          ],
+          [
+            137.1662879,
+            34.9146046
+          ]
+        ]
+      },
+      "id": "way/200934244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200934251",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1652445,
+            34.9141933
+          ],
+          [
+            137.1653228,
+            34.9143699
+          ],
+          [
+            137.1654252,
+            34.9146258
+          ],
+          [
+            137.1654676,
+            34.9146499
+          ],
+          [
+            137.1655273,
+            34.9146569
+          ],
+          [
+            137.1657483,
+            34.9146304
+          ]
+        ]
+      },
+      "id": "way/200934251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200934267",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1659833,
+            34.9145916
+          ],
+          [
+            137.1657483,
+            34.9146304
+          ]
+        ]
+      },
+      "id": "way/200934267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200934272",
+        "foot": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1668096,
+            34.9151957
+          ],
+          [
+            137.1667345,
+            34.9151864
+          ],
+          [
+            137.1667586,
+            34.9147927
+          ]
+        ]
+      },
+      "id": "way/200934272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274205521",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1654791,
+            34.9212294
+          ],
+          [
+            137.165339,
+            34.9217024
+          ],
+          [
+            137.1656857,
+            34.9217775
+          ]
+        ]
+      },
+      "id": "way/274205521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274205522",
+        "highway": "unclassified"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.165922,
+            34.9209115
+          ],
+          [
+            137.1669094,
+            34.9209723
+          ]
+        ]
+      },
+      "id": "way/274205522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274205523",
+        "highway": "unclassified",
+        "source": "GSI/KIBAN 2500; NARO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.165842,
+            34.9212946
+          ],
+          [
+            137.165922,
+            34.9209115
+          ],
+          [
+            137.1657592,
+            34.9208864
+          ],
+          [
+            137.1653484,
+            34.9206953
+          ]
+        ]
+      },
+      "id": "way/274205523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/324108437",
+        "highway": "unclassified",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1731235,
+            34.9199633
+          ],
+          [
+            137.1729351,
+            34.9195542
+          ],
+          [
+            137.1728225,
+            34.9193364
+          ],
+          [
+            137.172609,
+            34.9191996
+          ],
+          [
+            137.1721016,
+            34.9191681
+          ],
+          [
+            137.1716228,
+            34.9191384
+          ]
+        ]
+      },
+      "id": "way/324108437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379462062",
+        "highway": "secondary",
+        "lanes": "2",
+        "loc_name": "緑ヶ丘通り",
+        "maxspeed": "40",
+        "name": "緑ヶ丘通り",
+        "name:en": "Midorigaoka Dori Avenue",
+        "official_name": "桑谷柱線",
+        "ref": "326",
+        "source": "YahooJapan/ALPSMAP",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1912018,
+            34.917166
+          ],
+          [
+            137.1905074,
+            34.9172561
+          ],
+          [
+            137.1898363,
+            34.9173642
+          ],
+          [
+            137.1886765,
+            34.9175124
+          ],
+          [
+            137.1875055,
+            34.9176746
+          ],
+          [
+            137.1871783,
+            34.9177207
+          ],
+          [
+            137.1859503,
+            34.9179019
+          ],
+          [
+            137.1855628,
+            34.917955
+          ],
+          [
+            137.1844161,
+            34.9181221
+          ],
+          [
+            137.1827424,
+            34.9183566
+          ],
+          [
+            137.1810078,
+            34.918592
+          ],
+          [
+            137.1793852,
+            34.9188397
+          ],
+          [
+            137.1787015,
+            34.9189328
+          ],
+          [
+            137.1785648,
+            34.918958
+          ],
+          [
+            137.1779007,
+            34.9190474
+          ],
+          [
+            137.1768049,
+            34.9192493
+          ],
+          [
+            137.1761251,
+            34.9194662
+          ],
+          [
+            137.1750518,
+            34.919801
+          ],
+          [
+            137.1746466,
+            34.9199415
+          ],
+          [
+            137.1739098,
+            34.9201971
+          ],
+          [
+            137.1724608,
+            34.9207144
+          ],
+          [
+            137.1722177,
+            34.9208526
+          ],
+          [
+            137.1719195,
+            34.9210342
+          ],
+          [
+            137.1714964,
+            34.9213449
+          ],
+          [
+            137.1703732,
+            34.9220964
+          ],
+          [
+            137.1701594,
+            34.9222217
+          ],
+          [
+            137.1691923,
+            34.9228711
+          ],
+          [
+            137.1686175,
+            34.923195
+          ],
+          [
+            137.1682823,
+            34.923329
+          ],
+          [
+            137.1679231,
+            34.9234543
+          ],
+          [
+            137.1676638,
+            34.9235297
+          ],
+          [
+            137.1673788,
+            34.9235821
+          ],
+          [
+            137.1667356,
+            34.9236017
+          ]
+        ]
+      },
+      "id": "way/379462062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435629506",
+        "highway": "unclassified",
+        "name": "柱17号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.169914,
+            34.9218752
+          ],
+          [
+            137.1701594,
+            34.9222217
+          ]
+        ]
+      },
+      "id": "way/435629506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435629527",
+        "highway": "residential",
+        "name": "柱24号線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1721016,
+            34.9191681
+          ],
+          [
+            137.1721493,
+            34.9197538
+          ],
+          [
+            137.1723219,
+            34.9201551
+          ]
+        ]
+      },
+      "id": "way/435629527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435629530",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1682955,
+            34.9146221
+          ],
+          [
+            137.1687088,
+            34.9147165
+          ],
+          [
+            137.1690113,
+            34.9143016
+          ]
+        ]
+      },
+      "id": "way/435629530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435752434",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "国道248号",
+        "name:en": "National Highway Route 248",
+        "name:ja": "国道248号",
+        "oneway": "yes",
+        "ref": "248",
+        "source": "GSI/KIBAN 2500;NARO",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1623461,
+            34.9411782
+          ],
+          [
+            137.1625148,
+            34.9410741
+          ],
+          [
+            137.1629143,
+            34.940857
+          ],
+          [
+            137.1630257,
+            34.9407893
+          ],
+          [
+            137.1635439,
+            34.9404719
+          ],
+          [
+            137.1640623,
+            34.9401639
+          ],
+          [
+            137.165223,
+            34.9394577
+          ],
+          [
+            137.1655723,
+            34.93915
+          ],
+          [
+            137.1657523,
+            34.9389715
+          ],
+          [
+            137.1659029,
+            34.9387674
+          ],
+          [
+            137.1659752,
+            34.9386855
+          ],
+          [
+            137.166083,
+            34.9385156
+          ],
+          [
+            137.1662297,
+            34.9382085
+          ],
+          [
+            137.1663194,
+            34.9378844
+          ],
+          [
+            137.1663332,
+            34.9377896
+          ],
+          [
+            137.1663469,
+            34.9376924
+          ],
+          [
+            137.1663558,
+            34.9374829
+          ],
+          [
+            137.1663926,
+            34.9364934
+          ],
+          [
+            137.1664061,
+            34.9351946
+          ],
+          [
+            137.1664081,
+            34.934722
+          ],
+          [
+            137.1664053,
+            34.9332676
+          ],
+          [
+            137.16643,
+            34.9323338
+          ],
+          [
+            137.1664313,
+            34.9315192
+          ],
+          [
+            137.166455,
+            34.9307171
+          ],
+          [
+            137.1664534,
+            34.9303501
+          ],
+          [
+            137.166447,
+            34.929815
+          ],
+          [
+            137.1664598,
+            34.9289279
+          ],
+          [
+            137.1664657,
+            34.928346
+          ],
+          [
+            137.1664802,
+            34.9271135
+          ],
+          [
+            137.1665135,
+            34.9265043
+          ],
+          [
+            137.1665254,
+            34.9262865
+          ],
+          [
+            137.1665441,
+            34.9256583
+          ],
+          [
+            137.1666103,
+            34.9249475
+          ],
+          [
+            137.1666714,
+            34.9242802
+          ],
+          [
+            137.1667356,
+            34.9236017
+          ],
+          [
+            137.1668805,
+            34.922294
+          ],
+          [
+            137.1669785,
+            34.9212562
+          ],
+          [
+            137.1670536,
+            34.9206379
+          ],
+          [
+            137.1671046,
+            34.9200595
+          ],
+          [
+            137.1671636,
+            34.9195273
+          ],
+          [
+            137.1672361,
+            34.9188103
+          ],
+          [
+            137.1672769,
+            34.9183541
+          ],
+          [
+            137.1673483,
+            34.9176988
+          ],
+          [
+            137.1674199,
+            34.9169017
+          ],
+          [
+            137.1675479,
+            34.9155445
+          ],
+          [
+            137.1676435,
+            34.9147068
+          ],
+          [
+            137.1677196,
+            34.9139484
+          ],
+          [
+            137.1677841,
+            34.9133408
+          ],
+          [
+            137.1678216,
+            34.9130038
+          ],
+          [
+            137.1678716,
+            34.9128106
+          ],
+          [
+            137.1679437,
+            34.9126202
+          ],
+          [
+            137.1680578,
+            34.9123493
+          ],
+          [
+            137.1682151,
+            34.9120426
+          ],
+          [
+            137.1684052,
+            34.9117517
+          ],
+          [
+            137.1685698,
+            34.9115356
+          ],
+          [
+            137.1687565,
+            34.9113286
+          ],
+          [
+            137.1690631,
+            34.9110197
+          ],
+          [
+            137.1697187,
+            34.9103719
+          ],
+          [
+            137.1699134,
+            34.9101591
+          ],
+          [
+            137.169944,
+            34.9101256
+          ],
+          [
+            137.1700479,
+            34.9100185
+          ],
+          [
+            137.1701741,
+            34.9099137
+          ],
+          [
+            137.1703114,
+            34.909786
+          ],
+          [
+            137.1704304,
+            34.9096765
+          ],
+          [
+            137.1705697,
+            34.9095242
+          ],
+          [
+            137.1707834,
+            34.909314
+          ],
+          [
+            137.1710362,
+            34.9090487
+          ],
+          [
+            137.1711614,
+            34.9089053
+          ],
+          [
+            137.1713264,
+            34.9086831
+          ],
+          [
+            137.171332,
+            34.9086752
+          ],
+          [
+            137.1715184,
+            34.908428
+          ],
+          [
+            137.1716149,
+            34.9082418
+          ],
+          [
+            137.1717458,
+            34.9079679
+          ],
+          [
+            137.1718837,
+            34.9076242
+          ],
+          [
+            137.1721151,
+            34.9070233
+          ],
+          [
+            137.1725035,
+            34.9060237
+          ],
+          [
+            137.1725932,
+            34.9058179
+          ],
+          [
+            137.1728593,
+            34.9051836
+          ],
+          [
+            137.1728757,
+            34.9051485
+          ],
+          [
+            137.1729517,
+            34.9049997
+          ]
+        ]
+      },
+      "id": "way/435752434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034785",
+        "highway": "tertiary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1590331,
+            34.920813
+          ],
+          [
+            137.1596575,
+            34.9207826
+          ],
+          [
+            137.1598834,
+            34.9207599
+          ],
+          [
+            137.1600953,
+            34.9207237
+          ],
+          [
+            137.1603216,
+            34.9206517
+          ],
+          [
+            137.1605462,
+            34.9205486
+          ],
+          [
+            137.1607263,
+            34.9204318
+          ],
+          [
+            137.1607978,
+            34.920377
+          ],
+          [
+            137.1609137,
+            34.9202685
+          ],
+          [
+            137.1610164,
+            34.9201415
+          ],
+          [
+            137.1611131,
+            34.9200084
+          ],
+          [
+            137.161175,
+            34.9198898
+          ],
+          [
+            137.1612226,
+            34.9197485
+          ],
+          [
+            137.1612627,
+            34.9195163
+          ],
+          [
+            137.1613139,
+            34.9189559
+          ],
+          [
+            137.1613485,
+            34.9187412
+          ],
+          [
+            137.161384,
+            34.9185807
+          ],
+          [
+            137.1614401,
+            34.9184422
+          ],
+          [
+            137.161485,
+            34.9183633
+          ],
+          [
+            137.1615262,
+            34.9183088
+          ],
+          [
+            137.1615834,
+            34.9182307
+          ],
+          [
+            137.1616191,
+            34.9182028
+          ],
+          [
+            137.1617113,
+            34.9181294
+          ],
+          [
+            137.1618054,
+            34.9180607
+          ],
+          [
+            137.1619061,
+            34.9180092
+          ],
+          [
+            137.1620305,
+            34.9179615
+          ],
+          [
+            137.1620715,
+            34.9179481
+          ],
+          [
+            137.1621939,
+            34.9179123
+          ],
+          [
+            137.1624177,
+            34.917881
+          ],
+          [
+            137.1625037,
+            34.9178611
+          ],
+          [
+            137.1626256,
+            34.9178258
+          ],
+          [
+            137.1627079,
+            34.9177972
+          ],
+          [
+            137.1628027,
+            34.9177272
+          ]
+        ]
+      },
+      "id": "way/464034785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034786",
+        "highway": "tertiary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1626256,
+            34.9178258
+          ],
+          [
+            137.1629402,
+            34.9180935
+          ],
+          [
+            137.1630301,
+            34.9181913
+          ],
+          [
+            137.1630912,
+            34.9182795
+          ],
+          [
+            137.163106,
+            34.9183201
+          ],
+          [
+            137.1631346,
+            34.9184462
+          ],
+          [
+            137.1631364,
+            34.9185642
+          ],
+          [
+            137.1631123,
+            34.9187076
+          ],
+          [
+            137.1630859,
+            34.91887
+          ],
+          [
+            137.1630526,
+            34.9190591
+          ],
+          [
+            137.1630075,
+            34.9193752
+          ],
+          [
+            137.1629796,
+            34.9195063
+          ],
+          [
+            137.1629295,
+            34.9196008
+          ],
+          [
+            137.1628587,
+            34.9196944
+          ],
+          [
+            137.1627888,
+            34.9197476
+          ],
+          [
+            137.1627281,
+            34.9197882
+          ],
+          [
+            137.1626253,
+            34.9198654
+          ],
+          [
+            137.1625295,
+            34.919966
+          ],
+          [
+            137.162479,
+            34.9200372
+          ],
+          [
+            137.1624511,
+            34.9201089
+          ],
+          [
+            137.1624235,
+            34.9201969
+          ],
+          [
+            137.1624324,
+            34.9203957
+          ],
+          [
+            137.1624323,
+            34.9204118
+          ],
+          [
+            137.1624318,
+            34.9207391
+          ],
+          [
+            137.1624025,
+            34.9210217
+          ],
+          [
+            137.1623805,
+            34.9212343
+          ],
+          [
+            137.1623149,
+            34.9216454
+          ]
+        ]
+      },
+      "id": "way/464034786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034787",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1596575,
+            34.9207826
+          ],
+          [
+            137.1596718,
+            34.921025
+          ],
+          [
+            137.1598467,
+            34.9210489
+          ],
+          [
+            137.1601352,
+            34.9210883
+          ],
+          [
+            137.1605639,
+            34.9211387
+          ],
+          [
+            137.1609471,
+            34.9212124
+          ],
+          [
+            137.1613631,
+            34.9212945
+          ],
+          [
+            137.1619294,
+            34.921372
+          ],
+          [
+            137.1621274,
+            34.9213811
+          ],
+          [
+            137.1621571,
+            34.9209922
+          ],
+          [
+            137.1621766,
+            34.9207108
+          ],
+          [
+            137.1621813,
+            34.9204286
+          ]
+        ]
+      },
+      "id": "way/464034787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034788",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1621766,
+            34.9207108
+          ],
+          [
+            137.1613098,
+            34.9206461
+          ],
+          [
+            137.1611993,
+            34.9206188
+          ],
+          [
+            137.1611152,
+            34.9205912
+          ],
+          [
+            137.1609989,
+            34.9205386
+          ],
+          [
+            137.1607978,
+            34.920377
+          ]
+        ]
+      },
+      "id": "way/464034788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034790",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1607467,
+            34.9207411
+          ],
+          [
+            137.1608719,
+            34.9208178
+          ],
+          [
+            137.1610412,
+            34.9208844
+          ],
+          [
+            137.1611739,
+            34.9209222
+          ],
+          [
+            137.161334,
+            34.9209501
+          ],
+          [
+            137.1621571,
+            34.9209922
+          ]
+        ]
+      },
+      "id": "way/464034790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034792",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1624323,
+            34.9204118
+          ],
+          [
+            137.1621813,
+            34.9204286
+          ],
+          [
+            137.1614145,
+            34.9203778
+          ],
+          [
+            137.1611993,
+            34.9206188
+          ]
+        ]
+      },
+      "id": "way/464034792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034793",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1613139,
+            34.9189559
+          ],
+          [
+            137.16141,
+            34.9189684
+          ],
+          [
+            137.1615364,
+            34.9189753
+          ],
+          [
+            137.1616065,
+            34.9189792
+          ],
+          [
+            137.162316,
+            34.9190219
+          ],
+          [
+            137.1630526,
+            34.9190591
+          ]
+        ]
+      },
+      "id": "way/464034793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034794",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1624235,
+            34.9201969
+          ],
+          [
+            137.161583,
+            34.9201499
+          ],
+          [
+            137.1615305,
+            34.9201458
+          ],
+          [
+            137.1613765,
+            34.9200934
+          ],
+          [
+            137.1614738,
+            34.9198541
+          ],
+          [
+            137.1615373,
+            34.9195863
+          ],
+          [
+            137.1615431,
+            34.9195336
+          ],
+          [
+            137.1615709,
+            34.9192826
+          ],
+          [
+            137.1616065,
+            34.9189792
+          ]
+        ]
+      },
+      "id": "way/464034794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034795",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1625295,
+            34.919966
+          ],
+          [
+            137.1623727,
+            34.9199123
+          ],
+          [
+            137.1614738,
+            34.9198541
+          ]
+        ]
+      },
+      "id": "way/464034795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034796",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1627888,
+            34.9197476
+          ],
+          [
+            137.1626262,
+            34.9196567
+          ],
+          [
+            137.1615373,
+            34.9195863
+          ]
+        ]
+      },
+      "id": "way/464034796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034797",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1630075,
+            34.9193752
+          ],
+          [
+            137.1615709,
+            34.9192826
+          ]
+        ]
+      },
+      "id": "way/464034797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034798",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.162316,
+            34.9190219
+          ],
+          [
+            137.1623168,
+            34.91883
+          ],
+          [
+            137.162346,
+            34.9187177
+          ],
+          [
+            137.1623526,
+            34.9184954
+          ],
+          [
+            137.1623366,
+            34.9183371
+          ],
+          [
+            137.16224,
+            34.9181699
+          ],
+          [
+            137.1621286,
+            34.9180448
+          ],
+          [
+            137.1620715,
+            34.9179481
+          ]
+        ]
+      },
+      "id": "way/464034798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034799",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1623168,
+            34.91883
+          ],
+          [
+            137.1628515,
+            34.9188517
+          ],
+          [
+            137.1628945,
+            34.9185746
+          ],
+          [
+            137.1628889,
+            34.9185127
+          ],
+          [
+            137.1628837,
+            34.9184558
+          ],
+          [
+            137.1628501,
+            34.9183896
+          ],
+          [
+            137.1628033,
+            34.9182975
+          ],
+          [
+            137.1626235,
+            34.9181062
+          ],
+          [
+            137.16224,
+            34.9181699
+          ]
+        ]
+      },
+      "id": "way/464034799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034800",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1628889,
+            34.9185127
+          ],
+          [
+            137.1623526,
+            34.9184954
+          ]
+        ]
+      },
+      "id": "way/464034800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034801",
+        "highway": "path",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1623168,
+            34.91883
+          ],
+          [
+            137.1615707,
+            34.9188239
+          ],
+          [
+            137.1615364,
+            34.9189753
+          ]
+        ]
+      },
+      "id": "way/464034801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034802",
+        "highway": "path",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1628027,
+            34.9177272
+          ],
+          [
+            137.1631639,
+            34.918041
+          ],
+          [
+            137.1632176,
+            34.9182565
+          ]
+        ]
+      },
+      "id": "way/464034802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034803",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1632176,
+            34.9182565
+          ],
+          [
+            137.163106,
+            34.9183201
+          ],
+          [
+            137.1631032,
+            34.9183221
+          ],
+          [
+            137.1628501,
+            34.9183896
+          ]
+        ]
+      },
+      "id": "way/464034803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034804",
+        "highway": "path",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1630859,
+            34.91887
+          ],
+          [
+            137.1628515,
+            34.9188517
+          ]
+        ]
+      },
+      "id": "way/464034804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034805",
+        "highway": "path",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1615431,
+            34.9195336
+          ],
+          [
+            137.1612627,
+            34.9195163
+          ]
+        ]
+      },
+      "id": "way/464034805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034806",
+        "highway": "path",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1613765,
+            34.9200934
+          ],
+          [
+            137.1611131,
+            34.9200084
+          ]
+        ]
+      },
+      "id": "way/464034806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034807",
+        "highway": "path",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1619294,
+            34.921372
+          ],
+          [
+            137.1618935,
+            34.9215817
+          ]
+        ]
+      },
+      "id": "way/464034807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034810",
+        "highway": "tertiary",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1623149,
+            34.9216454
+          ],
+          [
+            137.1618935,
+            34.9215817
+          ],
+          [
+            137.1618401,
+            34.9215745
+          ]
+        ]
+      },
+      "id": "way/464034810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464034811",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1624025,
+            34.9210217
+          ],
+          [
+            137.1632802,
+            34.9211151
+          ]
+        ]
+      },
+      "id": "way/464034811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464043068",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1651705,
+            34.919725
+          ],
+          [
+            137.1649482,
+            34.9195884
+          ],
+          [
+            137.1646927,
+            34.919227
+          ],
+          [
+            137.1644787,
+            34.9189436
+          ],
+          [
+            137.1644776,
+            34.918588
+          ],
+          [
+            137.1644989,
+            34.9184393
+          ],
+          [
+            137.1646045,
+            34.918
+          ],
+          [
+            137.164711,
+            34.917627
+          ],
+          [
+            137.1647156,
+            34.9176026
+          ]
+        ]
+      },
+      "id": "way/464043068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464043069",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1651574,
+            34.9177392
+          ],
+          [
+            137.1650468,
+            34.9183772
+          ],
+          [
+            137.1650252,
+            34.9185016
+          ],
+          [
+            137.164934,
+            34.9186072
+          ],
+          [
+            137.1650306,
+            34.9186996
+          ],
+          [
+            137.1656796,
+            34.9188007
+          ],
+          [
+            137.1657244,
+            34.9186648
+          ],
+          [
+            137.1657708,
+            34.9185236
+          ],
+          [
+            137.1650468,
+            34.9183772
+          ]
+        ]
+      },
+      "id": "way/464043069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464043070",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1665416,
+            34.9187188
+          ],
+          [
+            137.1660927,
+            34.9187435
+          ],
+          [
+            137.1657244,
+            34.9186648
+          ]
+        ]
+      },
+      "id": "way/464043070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464043071",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1635548,
+            34.9172365
+          ],
+          [
+            137.163196,
+            34.9173876
+          ],
+          [
+            137.1630337,
+            34.9174859
+          ],
+          [
+            137.1628027,
+            34.9177272
+          ]
+        ]
+      },
+      "id": "way/464043071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464043072",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1627159,
+            34.9167778
+          ],
+          [
+            137.1620963,
+            34.9166263
+          ]
+        ]
+      },
+      "id": "way/464043072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464043076",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.162982,
+            34.9146392
+          ],
+          [
+            137.16282,
+            34.914803
+          ],
+          [
+            137.162652,
+            34.914927
+          ],
+          [
+            137.162522,
+            34.915042
+          ],
+          [
+            137.16242,
+            34.915147
+          ],
+          [
+            137.162357,
+            34.915197
+          ],
+          [
+            137.162301,
+            34.915253
+          ],
+          [
+            137.1620843,
+            34.9153588
+          ],
+          [
+            137.1618886,
+            34.9155797
+          ],
+          [
+            137.1616768,
+            34.9156263
+          ],
+          [
+            137.1615099,
+            34.9156337
+          ],
+          [
+            137.1615174,
+            34.9156921
+          ]
+        ]
+      },
+      "id": "way/464043076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464043083",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1615099,
+            34.9156337
+          ],
+          [
+            137.161502,
+            34.9154402
+          ],
+          [
+            137.1614109,
+            34.9152188
+          ],
+          [
+            137.1613572,
+            34.9150883
+          ],
+          [
+            137.1615288,
+            34.9150136
+          ],
+          [
+            137.1612821,
+            34.9145077
+          ],
+          [
+            137.1609897,
+            34.914611
+          ],
+          [
+            137.1611158,
+            34.9148508
+          ],
+          [
+            137.1611533,
+            34.9149828
+          ],
+          [
+            137.1613572,
+            34.9150883
+          ]
+        ]
+      },
+      "id": "way/464043083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464043085",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1614109,
+            34.9152188
+          ],
+          [
+            137.1617086,
+            34.9150673
+          ],
+          [
+            137.1619526,
+            34.9149432
+          ],
+          [
+            137.1620706,
+            34.9151191
+          ],
+          [
+            137.1618185,
+            34.9152291
+          ],
+          [
+            137.1617086,
+            34.9150673
+          ]
+        ]
+      },
+      "id": "way/464043085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464043086",
+        "highway": "residential",
+        "name": "若松萱林線"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1620963,
+            34.9166263
+          ],
+          [
+            137.1619097,
+            34.9165883
+          ],
+          [
+            137.1617005,
+            34.916364
+          ]
+        ]
+      },
+      "id": "way/464043086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464043087",
+        "highway": "service",
+        "name": "若松萱林線",
+        "service": "alley"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1617005,
+            34.916364
+          ],
+          [
+            137.1613679,
+            34.9160253
+          ],
+          [
+            137.1612395,
+            34.9157043
+          ]
+        ]
+      },
+      "id": "way/464043087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464043088",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1624008,
+            34.9163393
+          ],
+          [
+            137.1621571,
+            34.9159777
+          ],
+          [
+            137.162327,
+            34.9159023
+          ],
+          [
+            137.162517,
+            34.915948
+          ]
+        ]
+      },
+      "id": "way/464043088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464047293",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1664342,
+            34.919205
+          ],
+          [
+            137.1661666,
+            34.9193105
+          ],
+          [
+            137.1658233,
+            34.9193721
+          ],
+          [
+            137.1657799,
+            34.9192978
+          ],
+          [
+            137.1656999,
+            34.9191609
+          ],
+          [
+            137.1653244,
+            34.9192929
+          ],
+          [
+            137.1653995,
+            34.9194468
+          ],
+          [
+            137.1657799,
+            34.9192978
+          ]
+        ]
+      },
+      "id": "way/464047293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464047294",
+        "highway": "unclassified"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1656857,
+            34.9217775
+          ],
+          [
+            137.1660042,
+            34.9218558
+          ]
+        ]
+      },
+      "id": "way/464047294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495890",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1659667,
+            34.91633
+          ],
+          [
+            137.1658095,
+            34.9163849
+          ],
+          [
+            137.1656969,
+            34.9164657
+          ]
+        ]
+      },
+      "id": "way/464495890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495891",
+        "bridge": "yes",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1656619,
+            34.9164457
+          ],
+          [
+            137.1655815,
+            34.916349
+          ]
+        ]
+      },
+      "id": "way/464495891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495892",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1656619,
+            34.9164457
+          ],
+          [
+            137.1656969,
+            34.9164657
+          ]
+        ]
+      },
+      "id": "way/464495892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495893",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1655815,
+            34.916349
+          ],
+          [
+            137.1655493,
+            34.9161246
+          ],
+          [
+            137.16475,
+            34.9159971
+          ],
+          [
+            137.1646427,
+            34.9159443
+          ]
+        ]
+      },
+      "id": "way/464495893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495895",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.165624,
+            34.9154497
+          ],
+          [
+            137.1653339,
+            34.9154429
+          ],
+          [
+            137.1650002,
+            34.9154352
+          ],
+          [
+            137.1648162,
+            34.9154309
+          ],
+          [
+            137.1647143,
+            34.9154285
+          ],
+          [
+            137.1645862,
+            34.9154363
+          ],
+          [
+            137.1644834,
+            34.915461
+          ],
+          [
+            137.1644019,
+            34.9154792
+          ],
+          [
+            137.1643166,
+            34.9155673
+          ],
+          [
+            137.1642891,
+            34.9159533
+          ],
+          [
+            137.164282,
+            34.916052
+          ],
+          [
+            137.1642758,
+            34.9161387
+          ],
+          [
+            137.1641684,
+            34.9164184
+          ],
+          [
+            137.1639274,
+            34.9168135
+          ],
+          [
+            137.1638407,
+            34.9168479
+          ],
+          [
+            137.163772,
+            34.9168751
+          ],
+          [
+            137.1637214,
+            34.9169698
+          ],
+          [
+            137.1635548,
+            34.9172365
+          ]
+        ]
+      },
+      "id": "way/464495895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495896",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1646391,
+            34.9159868
+          ],
+          [
+            137.1644612,
+            34.9159685
+          ]
+        ]
+      },
+      "id": "way/464495896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495897",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1644612,
+            34.9159685
+          ],
+          [
+            137.1642891,
+            34.9159533
+          ]
+        ]
+      },
+      "id": "way/464495897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495898",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1647143,
+            34.9154285
+          ],
+          [
+            137.1646427,
+            34.9159443
+          ],
+          [
+            137.1646391,
+            34.9159868
+          ],
+          [
+            137.164602,
+            34.9161053
+          ],
+          [
+            137.1644029,
+            34.9165406
+          ],
+          [
+            137.1642549,
+            34.9167121
+          ],
+          [
+            137.1641906,
+            34.9168743
+          ],
+          [
+            137.1641609,
+            34.9170445
+          ],
+          [
+            137.1641233,
+            34.9171192
+          ],
+          [
+            137.1641679,
+            34.9171262
+          ],
+          [
+            137.1646137,
+            34.9173226
+          ],
+          [
+            137.1647553,
+            34.9173674
+          ],
+          [
+            137.1648042,
+            34.9173465
+          ],
+          [
+            137.1651379,
+            34.9172034
+          ],
+          [
+            137.1651506,
+            34.917198
+          ],
+          [
+            137.1653489,
+            34.9171622
+          ],
+          [
+            137.1655407,
+            34.9171809
+          ],
+          [
+            137.1657663,
+            34.9170306
+          ],
+          [
+            137.1657624,
+            34.9166903
+          ],
+          [
+            137.1656969,
+            34.9164657
+          ]
+        ]
+      },
+      "id": "way/464495898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495899",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1647553,
+            34.9173674
+          ],
+          [
+            137.1647156,
+            34.9176026
+          ]
+        ]
+      },
+      "id": "way/464495899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495900",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1641233,
+            34.9171192
+          ],
+          [
+            137.1639497,
+            34.9170992
+          ],
+          [
+            137.1637214,
+            34.9169698
+          ]
+        ]
+      },
+      "id": "way/464495900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495901",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1638407,
+            34.9168479
+          ],
+          [
+            137.163804,
+            34.9167045
+          ],
+          [
+            137.1635671,
+            34.9166595
+          ],
+          [
+            137.163442,
+            34.9166664
+          ],
+          [
+            137.1632494,
+            34.9166304
+          ],
+          [
+            137.1631315,
+            34.9166454
+          ],
+          [
+            137.1630341,
+            34.9167041
+          ],
+          [
+            137.1629572,
+            34.9167769
+          ],
+          [
+            137.1627691,
+            34.9168375
+          ]
+        ]
+      },
+      "id": "way/464495901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495902",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1628196,
+            34.9157591
+          ],
+          [
+            137.1628371,
+            34.9157855
+          ],
+          [
+            137.1630209,
+            34.9160639
+          ],
+          [
+            137.1631089,
+            34.916118
+          ],
+          [
+            137.1633608,
+            34.9161902
+          ],
+          [
+            137.1634684,
+            34.9161822
+          ],
+          [
+            137.164116,
+            34.9159454
+          ],
+          [
+            137.1642891,
+            34.9159533
+          ]
+        ]
+      },
+      "id": "way/464495902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464495903",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1664357,
+            34.9154937
+          ],
+          [
+            137.1662835,
+            34.9152119
+          ]
+        ]
+      },
+      "id": "way/464495903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464664288",
+        "highway": "residential",
+        "source": "YahooJapan/ALPSMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1682683,
+            34.9222355
+          ],
+          [
+            137.168646,
+            34.921943
+          ],
+          [
+            137.1689879,
+            34.921708
+          ]
+        ]
+      },
+      "id": "way/464664288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/466121134",
+        "highway": "service",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1628196,
+            34.9157591
+          ],
+          [
+            137.1628617,
+            34.9157323
+          ],
+          [
+            137.1628939,
+            34.9156729
+          ],
+          [
+            137.1628805,
+            34.9151934
+          ],
+          [
+            137.1626981,
+            34.9151956
+          ],
+          [
+            137.1627008,
+            34.915343
+          ],
+          [
+            137.162631,
+            34.9154926
+          ],
+          [
+            137.162631,
+            34.9156773
+          ],
+          [
+            137.1626055,
+            34.9156927
+          ],
+          [
+            137.1625028,
+            34.9156924
+          ]
+        ]
+      },
+      "id": "way/466121134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/466121137",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1670696,
+            34.9154415
+          ],
+          [
+            137.1670649,
+            34.9155074
+          ]
+        ]
+      },
+      "id": "way/466121137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/466121142",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1663235,
+            34.9175655
+          ],
+          [
+            137.16619,
+            34.9174731
+          ]
+        ]
+      },
+      "id": "way/466121142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/466121143",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1663235,
+            34.9175655
+          ],
+          [
+            137.1662033,
+            34.9176249
+          ]
+        ]
+      },
+      "id": "way/466121143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/469439577",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1722211,
+            34.9150042
+          ],
+          [
+            137.1723203,
+            34.9149013
+          ],
+          [
+            137.1725116,
+            34.9147597
+          ],
+          [
+            137.1727104,
+            34.9146297
+          ],
+          [
+            137.1728958,
+            34.914563
+          ],
+          [
+            137.1729239,
+            34.9145542
+          ],
+          [
+            137.1731809,
+            34.9144736
+          ]
+        ]
+      },
+      "id": "way/469439577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/469490735",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.165339,
+            34.9217024
+          ],
+          [
+            137.1652887,
+            34.92187
+          ],
+          [
+            137.1651146,
+            34.9219207
+          ],
+          [
+            137.1647778,
+            34.9219111
+          ],
+          [
+            137.1640932,
+            34.9218934
+          ],
+          [
+            137.1632192,
+            34.9218015
+          ]
+        ]
+      },
+      "id": "way/469490735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475578929",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1615834,
+            34.9182307
+          ],
+          [
+            137.1614398,
+            34.9181796
+          ],
+          [
+            137.1613395,
+            34.9181759
+          ]
+        ]
+      },
+      "id": "way/475578929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475578930",
+        "highway": "service",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1613395,
+            34.9181759
+          ],
+          [
+            137.1601324,
+            34.9180942
+          ],
+          [
+            137.1599516,
+            34.9180827
+          ]
+        ]
+      },
+      "id": "way/475578930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475578931",
+        "highway": "service",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1599779,
+            34.9176525
+          ],
+          [
+            137.1599516,
+            34.9180827
+          ],
+          [
+            137.1599382,
+            34.9182234
+          ],
+          [
+            137.1599761,
+            34.9182582
+          ],
+          [
+            137.1612626,
+            34.9183386
+          ],
+          [
+            137.1613278,
+            34.9183112
+          ],
+          [
+            137.1613395,
+            34.9181759
+          ]
+        ]
+      },
+      "id": "way/475578931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475578932",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1601609,
+            34.9176609
+          ],
+          [
+            137.1605472,
+            34.9176202
+          ],
+          [
+            137.1614738,
+            34.9176825
+          ],
+          [
+            137.1614534,
+            34.9179621
+          ],
+          [
+            137.1616313,
+            34.9179697
+          ],
+          [
+            137.1616517,
+            34.9179393
+          ],
+          [
+            137.1614738,
+            34.9176825
+          ],
+          [
+            137.1613533,
+            34.917295
+          ]
+        ]
+      },
+      "id": "way/475578932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/553748289",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.16141,
+            34.9189684
+          ],
+          [
+            137.1615323,
+            34.9187298
+          ],
+          [
+            137.1617518,
+            34.9187028
+          ],
+          [
+            137.1617869,
+            34.9186984
+          ],
+          [
+            137.1620595,
+            34.9187594
+          ],
+          [
+            137.1622127,
+            34.9187095
+          ],
+          [
+            137.162346,
+            34.9187177
+          ]
+        ]
+      },
+      "id": "way/553748289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/553748290",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1622127,
+            34.9187095
+          ],
+          [
+            137.162269,
+            34.9186235
+          ],
+          [
+            137.162287,
+            34.9184794
+          ],
+          [
+            137.1622194,
+            34.9183076
+          ],
+          [
+            137.1620865,
+            34.9181598
+          ],
+          [
+            137.1619716,
+            34.9181431
+          ],
+          [
+            137.1618612,
+            34.9181893
+          ],
+          [
+            137.1617192,
+            34.9182909
+          ],
+          [
+            137.1616224,
+            34.9184073
+          ],
+          [
+            137.161613,
+            34.9184313
+          ],
+          [
+            137.1615818,
+            34.9185108
+          ],
+          [
+            137.1616201,
+            34.9186216
+          ],
+          [
+            137.1617057,
+            34.9186327
+          ],
+          [
+            137.1617518,
+            34.9187028
+          ]
+        ]
+      },
+      "id": "way/553748290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/553748291",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1620865,
+            34.9181598
+          ],
+          [
+            137.1620797,
+            34.9181284
+          ],
+          [
+            137.1621286,
+            34.9180448
+          ]
+        ]
+      },
+      "id": "way/553748291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/553749300",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.161613,
+            34.9184313
+          ],
+          [
+            137.161485,
+            34.9183633
+          ]
+        ]
+      },
+      "id": "way/553749300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/611700825",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "国道248号",
+        "name:en": "National Highway Route 248",
+        "name:ja": "国道248号",
+        "oneway": "yes",
+        "ref": "248",
+        "source": "GSI/KIBAN 2500;NARO",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1728862,
+            34.9048814
+          ],
+          [
+            137.1727726,
+            34.9051221
+          ],
+          [
+            137.1726779,
+            34.9053742
+          ],
+          [
+            137.1725142,
+            34.9057883
+          ],
+          [
+            137.1723927,
+            34.9061117
+          ],
+          [
+            137.1722338,
+            34.9065168
+          ],
+          [
+            137.1719887,
+            34.9071268
+          ],
+          [
+            137.1717849,
+            34.9076029
+          ],
+          [
+            137.1716653,
+            34.9079468
+          ],
+          [
+            137.1715402,
+            34.9081967
+          ],
+          [
+            137.1714142,
+            34.9084209
+          ],
+          [
+            137.1712522,
+            34.9086444
+          ],
+          [
+            137.1709915,
+            34.9089732
+          ],
+          [
+            137.1707171,
+            34.9092522
+          ],
+          [
+            137.1704047,
+            34.9095535
+          ],
+          [
+            137.1702385,
+            34.9096976
+          ],
+          [
+            137.1702098,
+            34.9097293
+          ],
+          [
+            137.1700731,
+            34.9098578
+          ],
+          [
+            137.1699482,
+            34.9099692
+          ],
+          [
+            137.1698638,
+            34.9100961
+          ],
+          [
+            137.1695701,
+            34.9103686
+          ],
+          [
+            137.1692562,
+            34.9106905
+          ],
+          [
+            137.1689077,
+            34.911026
+          ],
+          [
+            137.1687571,
+            34.9111824
+          ],
+          [
+            137.1684888,
+            34.9114971
+          ],
+          [
+            137.1683278,
+            34.9117051
+          ],
+          [
+            137.1681201,
+            34.9120167
+          ],
+          [
+            137.1679562,
+            34.9123389
+          ],
+          [
+            137.1678468,
+            34.9125975
+          ],
+          [
+            137.1677505,
+            34.9128549
+          ],
+          [
+            137.1677169,
+            34.9130138
+          ],
+          [
+            137.1676743,
+            34.9133063
+          ],
+          [
+            137.1676069,
+            34.913947
+          ],
+          [
+            137.1674745,
+            34.9151635
+          ],
+          [
+            137.1674273,
+            34.9155404
+          ],
+          [
+            137.1673977,
+            34.915833
+          ],
+          [
+            137.1673006,
+            34.9168934
+          ],
+          [
+            137.1672232,
+            34.9176845
+          ],
+          [
+            137.1671683,
+            34.918347
+          ],
+          [
+            137.1671058,
+            34.9188354
+          ],
+          [
+            137.1670376,
+            34.9195207
+          ],
+          [
+            137.1669728,
+            34.9202757
+          ],
+          [
+            137.1669094,
+            34.9209723
+          ],
+          [
+            137.1667779,
+            34.9222853
+          ],
+          [
+            137.1667521,
+            34.9225732
+          ],
+          [
+            137.1667092,
+            34.9229906
+          ],
+          [
+            137.1666398,
+            34.9236271
+          ],
+          [
+            137.1666326,
+            34.9237173
+          ],
+          [
+            137.1665006,
+            34.9249543
+          ],
+          [
+            137.1663763,
+            34.9263445
+          ],
+          [
+            137.1663543,
+            34.9283752
+          ],
+          [
+            137.166313,
+            34.9315762
+          ],
+          [
+            137.1663153,
+            34.9322991
+          ],
+          [
+            137.1662922,
+            34.9333238
+          ],
+          [
+            137.1662827,
+            34.933554
+          ],
+          [
+            137.1662757,
+            34.9352211
+          ],
+          [
+            137.1662569,
+            34.9369736
+          ],
+          [
+            137.1662522,
+            34.9372136
+          ],
+          [
+            137.1662713,
+            34.937534
+          ],
+          [
+            137.1662555,
+            34.9377045
+          ],
+          [
+            137.1662151,
+            34.9378573
+          ],
+          [
+            137.166114,
+            34.9382156
+          ],
+          [
+            137.1660186,
+            34.9384283
+          ],
+          [
+            137.1659849,
+            34.9384944
+          ],
+          [
+            137.1658381,
+            34.9386731
+          ],
+          [
+            137.1657888,
+            34.9387394
+          ],
+          [
+            137.1657027,
+            34.9388624
+          ],
+          [
+            137.1656095,
+            34.9389741
+          ],
+          [
+            137.1654904,
+            34.9390918
+          ],
+          [
+            137.165283,
+            34.9392627
+          ],
+          [
+            137.1650756,
+            34.9394221
+          ],
+          [
+            137.1645129,
+            34.9397909
+          ],
+          [
+            137.1643456,
+            34.9398773
+          ],
+          [
+            137.1635039,
+            34.9403664
+          ],
+          [
+            137.163269,
+            34.9405089
+          ],
+          [
+            137.1629021,
+            34.9407313
+          ],
+          [
+            137.1627867,
+            34.9407956
+          ]
+        ]
+      },
+      "id": "way/611700825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617358969",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1643166,
+            34.9155673
+          ],
+          [
+            137.1642203,
+            34.9153968
+          ],
+          [
+            137.1639123,
+            34.915159
+          ],
+          [
+            137.1636105,
+            34.9150619
+          ],
+          [
+            137.1633445,
+            34.9150104
+          ],
+          [
+            137.1630066,
+            34.9150378
+          ]
+        ]
+      },
+      "id": "way/617358969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617358970",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1648162,
+            34.9154309
+          ],
+          [
+            137.164886,
+            34.9151271
+          ],
+          [
+            137.1648435,
+            34.9149504
+          ]
+        ]
+      },
+      "id": "way/617358970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617358971",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1657125,
+            34.9153815
+          ],
+          [
+            137.1656702,
+            34.9153647
+          ],
+          [
+            137.1656475,
+            34.915199
+          ],
+          [
+            137.1655657,
+            34.9151915
+          ],
+          [
+            137.165543,
+            34.9150295
+          ],
+          [
+            137.1655084,
+            34.9149941
+          ],
+          [
+            137.1654885,
+            34.9149737
+          ],
+          [
+            137.1654476,
+            34.9148843
+          ],
+          [
+            137.1654498,
+            34.9148574
+          ],
+          [
+            137.1654476,
+            34.9147539
+          ],
+          [
+            137.1654597,
+            34.9146887
+          ],
+          [
+            137.1654676,
+            34.9146499
+          ]
+        ]
+      },
+      "id": "way/617358971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617358972",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1655084,
+            34.9149941
+          ],
+          [
+            137.1656205,
+            34.9149731
+          ]
+        ]
+      },
+      "id": "way/617358972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617358973",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1664357,
+            34.9154937
+          ],
+          [
+            137.1665582,
+            34.9155473
+          ],
+          [
+            137.1667967,
+            34.915592
+          ]
+        ]
+      },
+      "id": "way/617358973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617358974",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.164282,
+            34.916052
+          ],
+          [
+            137.1641371,
+            34.9160668
+          ],
+          [
+            137.1639396,
+            34.9161506
+          ],
+          [
+            137.1639286,
+            34.9161573
+          ],
+          [
+            137.1637692,
+            34.9162549
+          ],
+          [
+            137.1636579,
+            34.9162885
+          ],
+          [
+            137.1635967,
+            34.9163487
+          ],
+          [
+            137.1635898,
+            34.9163555
+          ],
+          [
+            137.1635535,
+            34.9163853
+          ],
+          [
+            137.1635489,
+            34.9165324
+          ],
+          [
+            137.1635376,
+            34.916579
+          ],
+          [
+            137.163442,
+            34.9166664
+          ],
+          [
+            137.163399,
+            34.9167056
+          ],
+          [
+            137.1631992,
+            34.9168695
+          ],
+          [
+            137.1629339,
+            34.916999
+          ]
+        ]
+      },
+      "id": "way/617358974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617358975",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.163804,
+            34.9167045
+          ],
+          [
+            137.1637931,
+            34.9166162
+          ],
+          [
+            137.1638317,
+            34.9165566
+          ],
+          [
+            137.1638953,
+            34.9165091
+          ],
+          [
+            137.163918,
+            34.9164207
+          ],
+          [
+            137.163876,
+            34.9163862
+          ],
+          [
+            137.1638498,
+            34.9163648
+          ],
+          [
+            137.1637806,
+            34.9163471
+          ],
+          [
+            137.1637068,
+            34.9163434
+          ],
+          [
+            137.1636386,
+            34.9163481
+          ],
+          [
+            137.1635967,
+            34.9163487
+          ]
+        ]
+      },
+      "id": "way/617358975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617358976",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.163876,
+            34.9163862
+          ],
+          [
+            137.1639293,
+            34.9163844
+          ],
+          [
+            137.1639838,
+            34.9163592
+          ],
+          [
+            137.1639895,
+            34.9163155
+          ],
+          [
+            137.1639861,
+            34.9162698
+          ],
+          [
+            137.1639611,
+            34.9162251
+          ],
+          [
+            137.1639362,
+            34.9161907
+          ],
+          [
+            137.1639286,
+            34.9161573
+          ]
+        ]
+      },
+      "id": "way/617358976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617358977",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1648042,
+            34.9173465
+          ],
+          [
+            137.1649443,
+            34.9175155
+          ],
+          [
+            137.1652199,
+            34.9175796
+          ],
+          [
+            137.1653132,
+            34.9176013
+          ],
+          [
+            137.1655407,
+            34.9176476
+          ],
+          [
+            137.1658216,
+            34.9176813
+          ]
+        ]
+      },
+      "id": "way/617358977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617358978",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1660465,
+            34.9173831
+          ],
+          [
+            137.16619,
+            34.9174731
+          ]
+        ]
+      },
+      "id": "way/617358978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617358979",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1652199,
+            34.9175796
+          ],
+          [
+            137.1652909,
+            34.9173209
+          ],
+          [
+            137.1652341,
+            34.9172557
+          ],
+          [
+            137.1651379,
+            34.9172034
+          ]
+        ]
+      },
+      "id": "way/617358979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617361961",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1628805,
+            34.9151934
+          ],
+          [
+            137.1628754,
+            34.9150722
+          ],
+          [
+            137.1632466,
+            34.9147425
+          ],
+          [
+            137.1633466,
+            34.9147103
+          ]
+        ]
+      },
+      "id": "way/617361961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617361963",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1633409,
+            34.9147392
+          ],
+          [
+            137.1632822,
+            34.9147642
+          ],
+          [
+            137.1631271,
+            34.9149146
+          ],
+          [
+            137.1630066,
+            34.9150378
+          ]
+        ]
+      },
+      "id": "way/617361963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617361964",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1638752,
+            34.9148951
+          ],
+          [
+            137.1638921,
+            34.9150191
+          ],
+          [
+            137.1639123,
+            34.915159
+          ]
+        ]
+      },
+      "id": "way/617361964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617361971",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1630066,
+            34.9150378
+          ],
+          [
+            137.1629306,
+            34.9151155
+          ],
+          [
+            137.1630148,
+            34.915246
+          ]
+        ]
+      },
+      "id": "way/617361971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617361972",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1628371,
+            34.9157855
+          ],
+          [
+            137.1628998,
+            34.9157322
+          ],
+          [
+            137.1629112,
+            34.9156494
+          ],
+          [
+            137.1629044,
+            34.9151475
+          ],
+          [
+            137.1629306,
+            34.9151155
+          ]
+        ]
+      },
+      "id": "way/617361972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/638625332",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1650002,
+            34.9154352
+          ],
+          [
+            137.1649942,
+            34.9153175
+          ]
+        ]
+      },
+      "id": "way/638625332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/638625333",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1653339,
+            34.9154429
+          ],
+          [
+            137.1653568,
+            34.9153277
+          ]
+        ]
+      },
+      "id": "way/638625333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/638625334",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1649942,
+            34.9153175
+          ],
+          [
+            137.1649014,
+            34.9149312
+          ]
+        ]
+      },
+      "id": "way/638625334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/638625335",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1653568,
+            34.9153277
+          ],
+          [
+            137.1653817,
+            34.915292
+          ],
+          [
+            137.1654563,
+            34.9152666
+          ],
+          [
+            137.165378,
+            34.9148552
+          ]
+        ]
+      },
+      "id": "way/638625335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/638627285",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1646391,
+            34.9159868
+          ],
+          [
+            137.164699,
+            34.9160079
+          ]
+        ]
+      },
+      "id": "way/638627285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/974283238",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1640466,
+            34.9178696
+          ],
+          [
+            137.1646045,
+            34.918
+          ]
+        ]
+      },
+      "id": "way/974283238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/974283239",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1644776,
+            34.918588
+          ],
+          [
+            137.1640793,
+            34.9185015
+          ],
+          [
+            137.1638428,
+            34.9184502
+          ],
+          [
+            137.1637999,
+            34.9186173
+          ],
+          [
+            137.1640359,
+            34.9186613
+          ],
+          [
+            137.1640793,
+            34.9185015
+          ]
+        ]
+      },
+      "id": "way/974283239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/974283240",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1641217,
+            34.9195586
+          ],
+          [
+            137.1644787,
+            34.9189436
+          ]
+        ]
+      },
+      "id": "way/974283240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1045977654",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1725116,
+            34.9147597
+          ],
+          [
+            137.171372,
+            34.9139717
+          ]
+        ]
+      },
+      "id": "way/1045977654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1045988149",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1632176,
+            34.9182565
+          ],
+          [
+            137.1632413,
+            34.9184512
+          ],
+          [
+            137.1631925,
+            34.9187846
+          ],
+          [
+            137.1632087,
+            34.9190396
+          ],
+          [
+            137.1631948,
+            34.9196332
+          ],
+          [
+            137.1632288,
+            34.9199221
+          ],
+          [
+            137.1632321,
+            34.919993
+          ],
+          [
+            137.1631588,
+            34.920119
+          ],
+          [
+            137.1630353,
+            34.9202048
+          ],
+          [
+            137.1629859,
+            34.9202957
+          ],
+          [
+            137.1630645,
+            34.9204905
+          ],
+          [
+            137.1630606,
+            34.9205193
+          ],
+          [
+            137.1630219,
+            34.9208076
+          ],
+          [
+            137.162741,
+            34.9207845
+          ],
+          [
+            137.1627398,
+            34.9205237
+          ],
+          [
+            137.1627396,
+            34.9204817
+          ],
+          [
+            137.1627163,
+            34.9204244
+          ],
+          [
+            137.1626301,
+            34.9203909
+          ],
+          [
+            137.1624324,
+            34.9203957
+          ]
+        ]
+      },
+      "id": "way/1045988149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1045988150",
+        "highway": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1627398,
+            34.9205237
+          ],
+          [
+            137.1628521,
+            34.9204438
+          ],
+          [
+            137.162944,
+            34.9205047
+          ],
+          [
+            137.1630606,
+            34.9205193
+          ]
+        ]
+      },
+      "id": "way/1045988150"
+    }
+  ]
+}
